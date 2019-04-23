@@ -17,4 +17,5 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthFromEnd.js)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/20.%20Valid%20Parentheses/IsValid.js)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/21.%20Merge%20Two%20Sorted%20Lists/MergeTwoLists.js)|
-
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/23.%20Merge%20k%20Sorted%20Lists/MergeKLists.js)|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/24.%20Swap%20Nodes%in%Pairs/SwapPairs.js)|
