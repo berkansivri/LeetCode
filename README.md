@@ -18,4 +18,9 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/20.%20Valid%20Parentheses/IsValid.js)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/21.%20Merge%20Two%20Sorted%20Lists/MergeTwoLists.js)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/23.%20Merge%20k%20Sorted%20Lists/MergeKLists.js)|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/24.%20Swap%20Nodes%in%Pairs/SwapPairs.js)|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/24.%20Swap%20Nodes%20in%20Pairs/SwapPairs.js)|
+|25|[Reverse Nodes in k Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/25.%20Reverse%20Nodes%20in%20k%20Group/ReverseKGroup.js)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/26.%20Remove%20Duplicates%20from%20Sorted%20Array/RemoveDuplicates.js)|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/27.%20Remove%20Element/RemoveElement.js.js)|
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/28.%20Implement%20strStr/StrStr.js.js)|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/29.%20Divide%20Two%20Integers/Divide.js.js)|
