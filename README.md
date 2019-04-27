@@ -24,3 +24,5 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/27.%20Remove%20Element/RemoveElement.js)|
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/28.%20Implement%20strStr/StrStr.js)|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/29.%20Divide%20Two%20Integers/Divide.js)|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/32.%20Longest%20Valid%20Parentheses/LongestValidParentheses.js)|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/33.%20Search%20in%20Rotated%20Sorted%20Array/Search.js)|
