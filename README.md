@@ -29,3 +29,7 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/SearchRange.js)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/35.%20Search%20Insert%20Position/SearchInsert.js)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/36.%20Valid%20Sudoku/IsValidSudoku.js)|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/41.%20First%20Missing%20Positive/FirstMissingPositive.js)|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/42.%20Trapping%20Rain%20Water/Trap.js)|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/43.%20Multiply%20Strings/Multiple.js)|
+|45|[Jump Game ii](https://leetcode.com/problems/jump-game-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/45.%20Jump%20Game%20II/Jump.js)|
