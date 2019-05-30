@@ -34,5 +34,5 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/43.%20Multiply%20Strings/Multiple.js)|
 |45|[Jump Game ii](https://leetcode.com/problems/jump-game-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/45.%20Jump%20Game%20II/Jump.js)|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[javascript](https://github.com/berkansivri/LeetCode/tree/master/LeetCode/46.%20Permutations/permute.js)|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[javascript](https://github.com/berkansivri/LeetCode/tree/master/LeetCode/46.%20Rotate%20Image/Rotate.js)|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[javascript](https://github.com/berkansivri/LeetCode/tree/master/LeetCode/48.%20Rotate%20Image/Rotate.js)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[javascript](https://github.com/berkansivri/LeetCode/tree/master/LeetCode/49.%20Group%20Anagrams/GroupAnagrams.js)|
