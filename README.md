@@ -38,3 +38,5 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[javascript](https://github.com/berkansivri/LeetCode/tree/master/LeetCode/49.%20Group%20Anagrams/GroupAnagrams.js)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/53.%20Maximum%20Subarray/MaxSubArray.js)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/55.%20Jump%20Game/CanJump.js)|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/56.%20Merge%20Intervals/Merge.js)|
+|57|[Insert Intervals](https://leetcode.com/problems/insert-intervals/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/57.%20Insert%20Intervals/Insert.js)|
