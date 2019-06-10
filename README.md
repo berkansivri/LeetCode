@@ -40,3 +40,5 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/55.%20Jump%20Game/CanJump.js)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/56.%20Merge%20Intervals/Merge.js)|
 |57|[Insert Intervals](https://leetcode.com/problems/insert-intervals/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/57.%20Insert%20Intervals/Insert.js)|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/58.%20Length%20of%20Last%20Word/LengthOfLastWords.js)|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/61.%20Rotate%20List/RotateRight.js)|
