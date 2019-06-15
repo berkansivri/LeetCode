@@ -44,5 +44,8 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/58.%20Length%20of%20Last%20Word/LengthOfLastWord.js)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/61.%20Rotate%20List/RotateRight.js)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/62.%20Unique%20Paths/UniquePaths.js)|
-|63|[Unique Paths ii](https://leetcode.com/problems/unique-paths-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/63.%20Unique%20Paths%20ii/uniquePathsWithObstacles.js)|
+|63|[Unique Paths ii](https://leetcode.com/problems/unique-paths-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/63.%20Unique%20Paths%20II/UniquePathsWithObstacles.js)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/64.%20Minimum%20Path%20Sum/MinPathSum.js)|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/66.%20Plus%20One/PlusOne.js)|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/66.%20Plus%20One/PlusOne.js)|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/67.%20Add%20Binary/AddBinary.js)|
