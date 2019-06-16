@@ -47,5 +47,6 @@
 |63|[Unique Paths ii](https://leetcode.com/problems/unique-paths-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/63.%20Unique%20Paths%20II/UniquePathsWithObstacles.js)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/64.%20Minimum%20Path%20Sum/MinPathSum.js)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/66.%20Plus%20One/PlusOne.js)|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/66.%20Plus%20One/PlusOne.js)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/67.%20Add%20Binary/AddBinary.js)|
+|69|[sqrtx](https://leetcode.com/problems/sqrtx/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/69.%20sqrtx/MySqrt.js)|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/70.%20Climbing%20Stairs/ClimbStairs.js)|
