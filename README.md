@@ -50,3 +50,4 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/67.%20Add%20Binary/AddBinary.js)|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/69.%20sqrtx/MySqrt.js)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/70.%20Climbing%20Stairs/ClimbStairs.js)|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/71.%20Simplify%20Path/SimplifyPath.js)|
