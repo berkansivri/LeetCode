@@ -14,4 +14,4 @@ var addLine = function (problem, file) {
   });
 }
 
-addLine("71. Simplify Path", "SimplifyPath")
+addLine("73. Set Matrix Zeroes", "SetZeroes")

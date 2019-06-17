@@ -51,3 +51,4 @@
 |69|[sqrtx](https://leetcode.com/problems/sqrtx/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/69.%20sqrtx/MySqrt.js)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/70.%20Climbing%20Stairs/ClimbStairs.js)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/71.%20Simplify%20Path/SimplifyPath.js)|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/73.%20Set%20Matrix%20Zeroes/SetZeroes.js)|
