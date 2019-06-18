@@ -52,3 +52,5 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/70.%20Climbing%20Stairs/ClimbStairs.js)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/71.%20Simplify%20Path/SimplifyPath.js)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/73.%20Set%20Matrix%20Zeroes/SetZeroes.js)|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/74.%20Search%20a%202D%20Matrix/SearchMatrix.js)|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/75.%20Sort%20Colors/SortColors.js)|
