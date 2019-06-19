@@ -14,4 +14,4 @@ var addLine = function (problem, file) {
   });
 }
 
-addLine("73. Set Matrix Zeroes", "SetZeroes")
+addLine("78. Subsets", "Subsets")
