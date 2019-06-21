@@ -58,3 +58,4 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/78.%20Subsets/Subsets.js)|
 |80|[Remove Duplicates from Sorted Array ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20ii/removeDuplicates.js)|
 |81|[Search in Rotated Sorted Array ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/81.%20Search%20in%20Rotated%20Sorted%20Array%20ii/Search.js)|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List/DeleteDuplicates.js)|
