@@ -60,3 +60,4 @@
 |81|[Search in Rotated Sorted Array ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/81.%20Search%20in%20Rotated%20Sorted%20Array%20ii/Search.js)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List/DeleteDuplicates.js)|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/84.%20Largest%20Rectangle%20in%20Histogram/LargestRectangleArea.js)|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/86.%20Partition%20List/Partition.js)|
