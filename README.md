@@ -61,3 +61,4 @@
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/83.%20Remove%20Duplicates%20from%20Sorted%20List/DeleteDuplicates.js)|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/84.%20Largest%20Rectangle%20in%20Histogram/LargestRectangleArea.js)|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/86.%20Partition%20List/Partition.js)|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/88.%20Merge%20Sorted%20Array/Merge.js)|
