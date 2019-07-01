@@ -63,3 +63,4 @@
 |86|[Partition List](https://leetcode.com/problems/partition-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/86.%20Partition%20List/Partition.js)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/88.%20Merge%20Sorted%20Array/Merge.js)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/90.%20Subsets%20II/SubsetsWithDup.js)|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/91.%20Decode%20Ways/NumDecodings.js)|
