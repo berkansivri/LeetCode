@@ -64,3 +64,4 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/88.%20Merge%20Sorted%20Array/Merge.js)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/90.%20Subsets%20II/SubsetsWithDup.js)|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/91.%20Decode%20Ways/NumDecodings.js)|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/94.%20Binary%20Tree%20Inorder%20Traversal/inorderTraversal.js)|
