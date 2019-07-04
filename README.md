@@ -67,3 +67,6 @@
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/94.%20Binary%20Tree%20Inorder%20Traversal/InorderTraversal.js)|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/96.%20Unique%20Binary%20Search%20Trees/NumTrees.js)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/98.%20Validate%20Binary%20Search%20Tree/IsValidBST.js)|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/100.%20Same%20Tree/IsSameTree.js)| 
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/101.%20Symmetric%20Tree/IsSymmetric.js)|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/102.%20Binary%20Tree%20Level%20Order%20Traversal/LevelOrder.js)|
