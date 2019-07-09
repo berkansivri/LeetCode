@@ -80,4 +80,5 @@
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/110.%20Balanced%20Binary%20Tree/IsBalanced.js)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/111.%20Minimum%20Depth%20of%20Binary%20Tree/MinDepth.js)|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/112.%20Path%20Sum/HasPathSum.js)|
-|113|[Path Sum ii](https://leetcode.com/problems/path-sum-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/113.%20Path%20Sum%20ii/PathSum.js)|
+|113|[Path Sum ii](https://leetcode.com/problems/path-sum-II/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/113.%20Path%20Sum%20II/PathSum.js)|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/Flatten.js)|
