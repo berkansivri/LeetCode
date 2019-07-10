@@ -82,3 +82,5 @@
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/112.%20Path%20Sum/HasPathSum.js)|
 |113|[Path Sum ii](https://leetcode.com/problems/path-sum-II/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/113.%20Path%20Sum%20II/PathSum.js)|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/Flatten.js)|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/Connect.js)|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/Connect.js)|
