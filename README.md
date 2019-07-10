@@ -84,3 +84,6 @@
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/Flatten.js)|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node/Connect.js)|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II/Connect.js)|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/118.%20Pascal's%20Triangle/Generate.js)|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascal's-triangle-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/119.%20Pascal's%20Triangle%20II/GetRow.js)|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/120.%20Triangle/MinimumTotal.js)|
