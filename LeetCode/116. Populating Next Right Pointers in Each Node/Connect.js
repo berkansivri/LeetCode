@@ -16,27 +16,13 @@ var connect = function(root) {
   while (root && root.left) {
     let next = root.left
     while (root) {
-      if (root.left) root.left.next = setLeft(root)
-      if (root.right) root.right.next = setRight(root)
+      root.left.next = root.right
+      root.right.next = root.next ? root.next.left : root.next
       root = root.next
     }
     root = next
   }
   return res
-}
-
-function setLeft(node) {
-  if (node.right) return node.right
-  else if (root.next) {
-    if (root.next.left) return root.next.left
-    else if (root.next.right) return root.next.right
-  } else return null
-}
-function setRight(node) {
-  if (node.next) {
-    if (node.next.left) return node.next.left
-    else if (node.next.right) return node.next.right
-  } else return null
 }
 
 function Node(val, left, right, next) {
@@ -59,9 +45,9 @@ console.log(
     next: null,
     right: {
       $id: "5",
-      left: null,
+      left: { $id: "6", left: null, next: null, right: null, val: 6 },
       next: null,
-      right: { $id: "6", left: null, next: null, right: null, val: 7 },
+      right: { $id: "7", left: null, next: null, right: null, val: 7 },
       val: 3
     },
     val: 1
