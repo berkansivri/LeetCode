@@ -87,3 +87,5 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/118.%20Pascal's%20Triangle/Generate.js)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascal's-triangle-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/119.%20Pascal's%20Triangle%20II/GetRow.js)|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/120.%20Triangle/MinimumTotal.js)|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/MaxProfit.js)|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/MaxProfit.js)|
