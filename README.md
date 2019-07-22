@@ -94,3 +94,4 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/125.%20Valid%20Palindrome/IsPalindrome.js)|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/127.%20Word%20Ladder/FindLadders.js)|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/128.%20Longest%20Consecutive%20Sequence/LongestConsecutive.js)|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/129.%20Sum%20Root%20to%20Leaf%20Numbers/SumNumbers.js)|
