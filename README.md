@@ -97,3 +97,5 @@
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/129.%20Sum%20Root%20to%20Leaf%20Numbers/SumNumbers.js)|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/134.%20Gas%20Station/CanCompleteCircuit.js)|
 |135|[Candy](https://leetcode.com/problems/candy/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/135.%20Candy/Candy.js)|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/136.%20Single%20Number/SingleNumber.js)|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/138.%20Copy%20List%20with%20Random%20Pointer/CopyRandomList.js)|
