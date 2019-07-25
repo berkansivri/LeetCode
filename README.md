@@ -96,3 +96,4 @@
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/128.%20Longest%20Consecutive%20Sequence/LongestConsecutive.js)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/129.%20Sum%20Root%20to%20Leaf%20Numbers/SumNumbers.js)|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/134.%20Gas%20Station/CanCompleteCircuit.js)|
+|135|[Candy](https://leetcode.com/problems/candy/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/135.%20Candy/Candy.js)|
