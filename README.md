@@ -99,3 +99,7 @@
 |135|[Candy](https://leetcode.com/problems/candy/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/135.%20Candy/Candy.js)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/136.%20Single%20Number/SingleNumber.js)|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/138.%20Copy%20List%20with%20Random%20Pointer/CopyRandomList.js)|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/139.%20Word%20Break/WordBreak.js)|
+
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/141.%20Linked%20List%20Cycle/HasCycle.js)|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/142.%20Linked%20List%20Cycle%20II/DetectCycle.js)|
