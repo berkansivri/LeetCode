@@ -103,3 +103,5 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/141.%20Linked%20List%20Cycle/HasCycle.js)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/142.%20Linked%20List%20Cycle%20II/DetectCycle.js)|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/143.%20Reorder%20List/ReorderList.js)|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/144.%20Binary%20Tree%20Preorder%20Traversal/PreorderTraversal.js)|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/145.%20Binary%20Tree%20Postorder%20Traversal/PostorderTraversal.js)|
