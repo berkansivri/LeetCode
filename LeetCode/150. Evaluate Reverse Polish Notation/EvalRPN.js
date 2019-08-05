@@ -10,7 +10,7 @@ var evalRPN = function (tokens) {
     else {
       let n1 = stack.pop()
       let n2 = stack.pop()
-      stack.push(Math.trunc(eval("(" + n2 + ")" + tokens[i] + "(" + n1 + ")")))
+      stack.push(Math.trunc(eval(`(${n2}) ${tokens[i]} (${n1})`)))
     }
   }
   return stack.pop()
