@@ -114,3 +114,5 @@
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/FindMin.js)|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/155.%20Min%20Stack/MinStack.js)|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/160.%20Intersection%20of%20Two%20Linked%20Lists/GetIntersectionNode.js)|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/162.%20Find%20Peak%20Element/FindPeakElement.js)|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/165.%20Compare%20Version%20Numbers/CompareVersion.js)|
