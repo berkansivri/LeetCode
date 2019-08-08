@@ -116,3 +116,5 @@
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/160.%20Intersection%20of%20Two%20Linked%20Lists/GetIntersectionNode.js)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/162.%20Find%20Peak%20Element/FindPeakElement.js)|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/165.%20Compare%20Version%20Numbers/CompareVersion.js)|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted/TwoSum.js)|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/169.%20Majority%20Element/MajorityElement.js)|
