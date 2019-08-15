@@ -129,3 +129,6 @@
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[T-SQL](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/182.%20Duplicate%20Emails/DublicateEmails.sql)|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[T-SQL](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/183.%20Customers%20Who%20Never%20Order/Customers.sql)|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/187.%20Repeated%20DNA%20Sequences/FindRepeatedDnaSequences.js)|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/189.%20Rotate%20Array/Rotate.js)|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/190.%20Reverse%20Bits/ReverseBits.js)|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/191.%20Number%20of%201%20Bits/HammingWeight.js)|
