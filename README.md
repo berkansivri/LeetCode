@@ -122,3 +122,5 @@
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/172.%20Factorial%20Trailing%20Zeroes/TrailingZeroes.js)|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/173.%20Binary%20Search%20Tree%20Iterator/BSTIterator.js)|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/174.%20Dungeon%20Game/CalculateMinimumHP.js)|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[T-SQL](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/175.%20Combine%20Two%20Tables/CombineTwoTables.sql)|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[T-SQL](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/176.%20Second%20Highest%20Salary/SecondHighestSalary.sql)|
