@@ -132,3 +132,4 @@
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/189.%20Rotate%20Array/Rotate.js)|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/190.%20Reverse%20Bits/ReverseBits.js)|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/191.%20Number%20of%201%20Bits/HammingWeight.js)|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/198.%20House%20Robber/Rob.js)|
