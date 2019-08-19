@@ -138,3 +138,5 @@
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/201.%20Bitwise%20AND%20of%20Numbers%20Range/RangeBitwiseAnd.js)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/202.%20Happy%20Number/IsHappy.js)|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/203.%20Remove%20Linked%20List%20Elements/RemoveElements.js)|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/204.%20Count%20Primes/CountPrimes.js)|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/205.%20Isomorphic%20Strings/IsIsomorphic.js)|
