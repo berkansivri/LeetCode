@@ -140,3 +140,5 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/203.%20Remove%20Linked%20List%20Elements/RemoveElements.js)|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/204.%20Count%20Primes/CountPrimes.js)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/205.%20Isomorphic%20Strings/IsIsomorphic.js)|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/206.%20Reverse%20Linked%20List/ReverseList.js)|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/207.%20Course%20Schedule/CanFinish.js)|
