@@ -145,3 +145,5 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/209.%20Minimum%20Size%20Subarray%20Sum/MinSubArrayLen.js)|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word---data-structure-design/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design/WordDictionary.js)|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/213.%20House%20Robber%20II/Rob.js)|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/214.%20Shortest%20Palindrome/ShortestPalindrome.js)|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[javascript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array/FindKthLargest.js)|
