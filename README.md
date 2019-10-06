@@ -150,4 +150,5 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/217.%20Contains%20Duplicate/ContainsDuplicate.js)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/219.%20Contains%20Duplicate%20II/ContainsNearbyDuplicate.js)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/220.%20Contains%20Duplicate%20III/ContainsNearbyAlmostDuplicate.js)|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/222.%20Count%20Complete%20Tree%20Nodes/CountNodes.js)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/225.%20Implement%20Stack%20using%20Queues/MyStack.js)|
