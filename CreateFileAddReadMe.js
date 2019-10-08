@@ -11,7 +11,6 @@ const createFile = (questionFolder, func) => {
   fs.mkdir(path.join(folderPath, questionFolder), (err) => {
     if (err) {
       console.log(err)
-      return
     }
 
     fs.readFile(path.join(__dirname, 'leetcode.js'), 'utf8', (err, data) => {
@@ -23,7 +22,6 @@ const createFile = (questionFolder, func) => {
       fs.writeFile(path.join(folderPath, questionFolder, capitalizeFirstLetter(func.name) + '.js'), data, (err) => {
         if (err) {
           console.log(err)
-          return
         }
 
         console.log("File created");

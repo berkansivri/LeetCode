@@ -148,8 +148,10 @@
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/214.%20Shortest%20Palindrome/ShortestPalindrome.js)|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/215.%20Kth%20Largest%20Element%20in%20an%20Array/FindKthLargest.js)|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/217.%20Contains%20Duplicate/ContainsDuplicate.js)|
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/218.%20The%20Skyline%20Problem/GetSkyline.js)|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/219.%20Contains%20Duplicate%20II/ContainsNearbyDuplicate.js)|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/220.%20Contains%20Duplicate%20III/ContainsNearbyAlmostDuplicate.js)|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/222.%20Count%20Complete%20Tree%20Nodes/CountNodes.js)|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/225.%20Implement%20Stack%20using%20Queues/MyStack.js)|
-|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/218.%20The%20Skyline%20Problem/GetSkyline.js)|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/226.%20Invert%20Binary%20Tree/InvertTree.js)|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/227.%20Basic%20Calculator%20II/Calculate.js)|
