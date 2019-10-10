@@ -7,20 +7,25 @@
  */
 /**
  * @param {TreeNode} root
- * @return {number[]}
+ * @param {number} k
+ * @return {number}
  */
-var rightSideView = function (root) {
-  let map = new Map()
-  const iter = (node, l) => {
-    if(!node) return
-    if (!map.has(l)) map.set(l, [])
-    map.get(l).push(node.val)
-    iter(node.right, l + 1)
-    iter(node.left, l + 1)
+var kthSmallest = function (root, k) {
+  let result = null
+  const iter = (node) => {
+    if (!node) return
+    iter(node.left)
+    k--
+    if (k === 0) {
+      result = node.val
+      return
+    }
+    iter(node.right)
   }
-  iter(root, 0)
-  return Array.from(map.values()).map(arr => arr[0])
+  iter(root)
+  return result
 };
+
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -35,4 +40,5 @@ function TreeNode(val) {
   this.left = this.right = null;
 }
 
-console.log(rightSideView(toBTree([1, 2, 3, 4])));
+console.log(kthSmallest(toBTree([5, 3, 6, 2, 4, null, null, 1]), 3))
+console.log(kthSmallest(toBTree([3, 1, 4, null, 2]), 1))

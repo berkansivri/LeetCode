@@ -158,3 +158,4 @@
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/227.%20Basic%20Calculator%20II/Calculate.js)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/228.%20Summary%20Ranges/SummaryRanges.js)|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/229.%20Majority%20Element%20II/MajorityElement.js)|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/230.%20Kth%20Smallest%20Element%20in%20a%20BST/KthSmallest.js)|

@@ -2,10 +2,9 @@
  * @param {number[]} nums
  * @return {string[]}
  */
-var summaryRanges = function(nums, left = nums[0]) {
-  return nums.reduce((p,c,i) =>((c+1 !== nums[i+1] ? p.push(left === c ? '' + c : `${left}->${c}`) : '') && (left = nums[i+1]), p), [])
-};
 
+// 1-liner
+const summaryRanges = (nums, s = nums[0]) => nums.reduce((p,c,i) =>((c+1 !== nums[i+1] ? p.push(s === c ? `${c}` : `${s}->${c}`) : '') && (s = nums[i+1]), p), [])
 
 var summaryRanges2 = function(nums) {
   if(nums.length === 1) return nums.map(String)
