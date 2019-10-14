@@ -77,4 +77,6 @@ const addLine = (problem, file, lang) => {
   })
 }
 
+addToReadMe()
+
 module.exports = createFile
