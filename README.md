@@ -162,3 +162,4 @@
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/231.%20Power%20of%20Two/IsPowerOfTwo.js)|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/232.%20Implement%20Queue%20using%20Stacks/MyQueue.js)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/234.%20Palindrome%20Linked%20List/IsPalindrome.js)|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/lowestCommonAncestor.js)|

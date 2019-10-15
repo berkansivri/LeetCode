@@ -3,18 +3,18 @@ const CreateFileAddReadMe = require('./CreateFileAddReadMe')
 
 function activate(context) {
 
-	let disposable = vscode.commands.registerCommand('extension.addToReadme', async () => {
+  let disposable = vscode.commands.registerCommand('extension.addToReadme', async () => {
 
     const question = await vscode.window.showInputBox({
       placeHolder: "This will be folder name",
       prompt: "Enter Question Title"
     })
-    if(question.trim()) {
+    if (question.trim()) {
       const solution = await vscode.window.showInputBox({
         placeHolder: "This will be file name",
         prompt: "Enter Solution Function Name"
       })
-      if(solution.trim()) {
+      if (solution.trim()) {
         const content = vscode.window.activeTextEditor.document.getText()
         const folder = vscode.workspace.rootPath
         try {
@@ -25,15 +25,15 @@ function activate(context) {
         }
       }
     }
-	})
+  })
 
-	context.subscriptions.push(disposable)
+  context.subscriptions.push(disposable)
 }
 exports.activate = activate
 
 function deactivate() {}
 
 module.exports = {
-	activate,
-	deactivate
+  activate,
+  deactivate
 }
