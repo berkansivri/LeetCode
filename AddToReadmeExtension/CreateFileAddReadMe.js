@@ -39,7 +39,7 @@ const addToReadMe = (rootFolder, problem, solution, lang) => {
       break
   }
 
-  let content = `|${number}|[${title}](https://leetcode.com/problems/${title.split(" ").join("-").toString().toLowerCase()}/)|[${language}](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/${number}.%20${title.split(" ").join("%20").toString()}/${solution}.js)|`
+  let content = `|${number}|[${title}](https://leetcode.com/problems/${title.split(" ").join("-").toString().toLowerCase()}/)|[${language}](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/${number}.%20${title.split(" ").join("%20").toString()}/${capitalizeFirstLetter(solution)}.js)|`
 
   const readmePath = path.join(rootFolder, "README.md")
   fs.open(readmePath, 'a', 666, function (e, id) {
