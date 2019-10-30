@@ -168,4 +168,5 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/238.%20Product%20of%20Array%20Except%20Self/ProductExceptSelf.js)|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/239.%20Sliding%20Window%20Maximum/MaxSlidingWindow.js)|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/240.%20Search%20a%202D%20Matrix%20II/SearchMatrix.js)|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/242.%20Valid%20Anagram/isAnagram.js)|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/242.%20Valid%20Anagram/IsAnagram.js)|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/257.%20Binary%20Tree%20Paths/BinaryTreePaths.js)|
