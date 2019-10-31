@@ -170,3 +170,4 @@
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/240.%20Search%20a%202D%20Matrix%20II/SearchMatrix.js)|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/242.%20Valid%20Anagram/IsAnagram.js)|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/257.%20Binary%20Tree%20Paths/BinaryTreePaths.js)|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/258.%20Add%20Digits/addDigits.js)|
