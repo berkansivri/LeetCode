@@ -9,17 +9,17 @@
  * @param {TreeNode} root
  * @return {string[]}
  */
-var binaryTreePaths = function(root) {
+var binaryTreePaths = function (root) {
   const res = []
-    const iter = (node, leafs) => {
-      if(!node) return
-      leafs.push(node.val)
-      iter(node.left, leafs)
-      iter(node.right, leafs)
-      res.push(leafs)
-    }
-    iter(root, [])
-    return res
+  const iter = (node, leafs) => {
+    if (!node) return
+    leafs.push(node.val)
+    iter(node.left, [...leafs])
+    iter(node.right, [...leafs])
+    if (!node.right && !node.left) res.push(leafs)
+  }
+  iter(root, [])
+  return res.map(leaf => leaf.join("->"))
 };
 
 function toBTree(array, i = 0) {
@@ -35,4 +35,4 @@ function TreeNode(val) {
   this.left = this.right = null
 }
 
-console.log(binaryTreePaths(toBTree([1,2,3,null,5])));
+console.log(binaryTreePaths(toBTree([1, 2, 3, null, 5])));
