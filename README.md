@@ -174,3 +174,4 @@
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/260.%20Single%20Number%20III/SingleNumber.js)|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/263.%20Ugly%20Number/IsUgly.js)|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/264.%20Ugly%20Number%20II/NthUglyNumber.js)|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/268.%20Missing%20Number/MissingNumber.js)|
