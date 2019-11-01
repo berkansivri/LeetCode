@@ -172,3 +172,5 @@
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/257.%20Binary%20Tree%20Paths/BinaryTreePaths.js)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/258.%20Add%20Digits/AddDigits.js)|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/260.%20Single%20Number%20III/SingleNumber.js)|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/263.%20Ugly%20Number/IsUgly.js)|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/264.%20Ugly%20Number%20II/NthUglyNumber.js)|
