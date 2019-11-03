@@ -171,3 +171,4 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/242.%20Valid%20Anagram/IsAnagram.js)|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/257.%20Binary%20Tree%20Paths/BinaryTreePaths.js)|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/258.%20Add%20Digits/addDigits.js)|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/278.%20First%20Bad%20Version/IsBadVersion.js)|
