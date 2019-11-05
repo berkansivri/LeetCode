@@ -2,7 +2,7 @@
 	"name": "addtoreadme",
 	"displayName": "AddToReadme",
 	"description": "LC Solutions to ReadMe Table Content",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"url": "https://github.com/berkansivri/leetcode"
 	},
@@ -43,10 +43,7 @@
 		"@types/vscode": "^1.39.0",
 		"eslint": "^5.13.0",
 		"glob": "^7.1.4",
-		"mocha": "^6.1.4",
-		"typescript": "^3.3.1",
-		"vsce": "^1.67.1",
-		"vscode-test": "^1.2.0"
+		"typescript": "^3.3.1"
 	},
 	"dependencies": {}
 }
