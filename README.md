@@ -175,5 +175,6 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/263.%20Ugly%20Number/IsUgly.js)|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/264.%20Ugly%20Number%20II/NthUglyNumber.js)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/268.%20Missing%20Number/MissingNumber.js)|
+|274|[H-Index](https://leetcode.com/problems/h-index/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/274.%20H-Index/H-index.js)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/278.%20First%20Bad%20Version/IsBadVersion.js)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/279.%20Perfect%20Squares/NumSquares.js)|
