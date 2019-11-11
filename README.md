@@ -179,3 +179,4 @@
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/274.%20H-Index/H-index.js)|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/278.%20First%20Bad%20Version/IsBadVersion.js)|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/279.%20Perfect%20Squares/NumSquares.js)|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/283.%20Move%20Zeroes/MoveZeroes.js)|
