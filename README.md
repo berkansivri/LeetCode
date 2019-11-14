@@ -184,3 +184,5 @@
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/289.%20Game%20of%20Life/GameOfLife.js)|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/290.%20Word%20Pattern/WordPattern.js)|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/292.%20Nim%20Game/CanWinNim.js)|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/295.%20Find%20Median%20from%20Data%20Stream/MedianFinder.js)|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/SerializeDeserialize.js)|
