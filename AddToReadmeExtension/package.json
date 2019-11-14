@@ -2,13 +2,13 @@
 	"name": "addtoreadme",
 	"displayName": "AddToReadme",
 	"description": "LC Solutions to ReadMe Table Content",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"repository": {
 		"url": "https://github.com/berkansivri/leetcode"
 	},
 	"publisher": "berkansivri",
 	"engines": {
-		"vscode": "^1.39.0"
+		"vscode": "^1.40.0"
 	},
 	"categories": [
 		"Other"

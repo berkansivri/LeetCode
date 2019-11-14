@@ -182,3 +182,4 @@
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/283.%20Move%20Zeroes/MoveZeroes.js)|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/287.%20Find%20the%20Duplicate%20Number/FindDublicate.js)|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/289.%20Game%20of%20Life/GameOfLife.js)|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/290.%20Word%20Pattern/WordPattern.js)|
