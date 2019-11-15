@@ -186,3 +186,4 @@
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/292.%20Nim%20Game/CanWinNim.js)|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/295.%20Find%20Median%20from%20Data%20Stream/MedianFinder.js)|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/297.%20Serialize%20and%20Deserialize%20Binary%20Tree/SerializeDeserialize.js)|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/299.%20Bulls%20and%20Cows/GetHint.js)|
