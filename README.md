@@ -192,3 +192,4 @@
 |304|[Range Sum Query 2D Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/304.%20Range%20Sum%20Query%202D%20Immutable/NumMatrix.js)|
 |307|[Range Sum Query Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/307.%20Range%20Sum%20Query%20Mutable/NumArray.js)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/MaxProfit.js)|
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/313.%20Super%20Ugly%20Number/NthSuperUglyNumber.js)|
