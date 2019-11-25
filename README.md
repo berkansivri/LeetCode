@@ -193,3 +193,4 @@
 |307|[Range Sum Query Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/307.%20Range%20Sum%20Query%20Mutable/NumArray.js)|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown/MaxProfit.js)|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/313.%20Super%20Ugly%20Number/NthSuperUglyNumber.js)|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/315.%20Count%20of%20Smaller%20Numbers%20After%20Self/CountSmaller.js)|
