@@ -196,3 +196,4 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/315.%20Count%20of%20Smaller%20Numbers%20After%20Self/CountSmaller.js)|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/316.%20Remove%20Duplicate%20Letters/RemoveDuplicateLetters.js)|
 |318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/318.%20Maximum%20Product%20of%20Word%20Lengths/MaxProduct.js)|
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/319.%20Bulb%20Switcher/BulbSwitch.js)|
