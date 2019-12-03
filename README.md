@@ -199,3 +199,4 @@
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/319.%20Bulb%20Switcher/BulbSwitch.js)|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/322.%20Coin%20Change/CoinChange.js)|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/324.%20Wiggle%20Sort%20II/WiggleSort.js)|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/326.%20Power%20of%20Three/IsPowerOfThree.js)|
