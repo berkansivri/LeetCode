@@ -200,3 +200,4 @@
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/322.%20Coin%20Change/CoinChange.js)|
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/324.%20Wiggle%20Sort%20II/WiggleSort.js)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/326.%20Power%20of%20Three/IsPowerOfThree.js)|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/328.%20Odd%20Even%20Linked%20List/OddEventList.js)|
