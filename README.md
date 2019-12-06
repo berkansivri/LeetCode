@@ -201,3 +201,4 @@
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/324.%20Wiggle%20Sort%20II/WiggleSort.js)|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/326.%20Power%20of%20Three/IsPowerOfThree.js)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/328.%20Odd%20Even%20Linked%20List/OddEventList.js)|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix/LongestIncreasingPath.js)|
