@@ -202,3 +202,4 @@
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/326.%20Power%20of%20Three/IsPowerOfThree.js)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/328.%20Odd%20Even%20Linked%20List/OddEventList.js)|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix/LongestIncreasingPath.js)|
+|331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/IsValidSerialization.js)|
