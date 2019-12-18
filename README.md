@@ -205,3 +205,4 @@
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/331.%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree/IsValidSerialization.js)|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/334.%20Increasing%20Triplet%20Subsequence/IncreasingTriplet.js)|
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/336.%20Palindrome%20Pairs/PalindromePairs.js)|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/338.%20Counting%20Bits/CountBits.js)|

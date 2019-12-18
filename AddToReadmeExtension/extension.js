@@ -14,7 +14,8 @@ function activate(context) {
       if (question.trim()) {
         const solution = await vscode.window.showInputBox({
           placeHolder: "This will be file name",
-          prompt: "Enter Solution Function Name"
+          prompt: "Enter Solution Function Name",
+          value: question.split('.')[1].replace(/ /g, '')
         })
         if (solution.trim()) {
           const content = vscode.window.activeTextEditor.document.getText()
