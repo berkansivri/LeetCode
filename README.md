@@ -212,3 +212,4 @@
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowels.js)|
 |346|Merge Unsorted Arrays In-Place|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/Merge%20Unsorted%20Arrays%20In-Place/Merge.js)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/347.%20Top%20K%20Frequent%20Elements/TopKFrequent.js)|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/349.%20Intersection%20of%20Two%20Arrays/Intersection.js)|
