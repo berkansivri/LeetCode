@@ -213,3 +213,5 @@
 |346|Merge Unsorted Arrays In-Place|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/Merge%20Unsorted%20Arrays%20In-Place/Merge.js)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/347.%20Top%20K%20Frequent%20Elements/TopKFrequent.js)|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/349.%20Intersection%20of%20Two%20Arrays/Intersection.js)|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/350.%20Intersection%20of%20Two%20Arrays%20II/Intersect.js)|
+|352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/352.%20Data%20Stream%20as%20Disjoint%20Intervals/SummaryRanges.js)|
