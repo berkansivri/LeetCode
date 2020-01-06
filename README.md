@@ -220,3 +220,4 @@
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/357.%20Count%20Numbers%20with%20Unique%20Digits/CountNumbersWithUniqueDigits.js)|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/365.%20Water%20and%20Jug%20Problem/CanMeasureWater.js)|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/367.%20Valid%20Perfect%20Square/IsPerfectSquare.js)|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/371.%20Sum%20of%20Two%20Integers/GetSum.js)|
