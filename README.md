@@ -222,3 +222,4 @@
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/367.%20Valid%20Perfect%20Square/IsPerfectSquare.js)|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/371.%20Sum%20of%20Two%20Integers/GetSum.js)|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Java](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/374.%20Guess%20Number%20Higher%20or%20Lower/GuessNumber.java)|
+|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/375.%20Guess%20Number%20Higher%20or%20Lower%20II/GetMoneyAmount.js)|
