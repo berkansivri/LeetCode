@@ -225,3 +225,4 @@
 |375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/375.%20Guess%20Number%20Higher%20or%20Lower%20II/GetMoneyAmount.js)|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/376.%20Wiggle%20Subsequence/WiggleMaxLength.js)|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/377.%20Combination%20Sum%20IV/CombinationSum4.js)|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/KthSmallest.js)|
