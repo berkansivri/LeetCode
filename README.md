@@ -221,3 +221,4 @@
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/365.%20Water%20and%20Jug%20Problem/CanMeasureWater.js)|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/367.%20Valid%20Perfect%20Square/IsPerfectSquare.js)|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/371.%20Sum%20of%20Two%20Integers/GetSum.js)|
+|380|[Insert Delete GetRandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/380.%20Insert%20Delete%20GetRandom%20O1/RandomizedSet.js)|
