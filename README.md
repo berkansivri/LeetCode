@@ -210,7 +210,7 @@
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/342.%20Power%20of%20Four/IsPowerofFour.js)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/344.%20Reverse%20String/ReverseString.js)|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowels.js)|
-|346|Merge Unsorted Arrays In-Place|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/Merge%20Unsorted%20Arrays%20In-Place/Merge.js)|
+|---|Merge Unsorted Arrays In-Place|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/Merge%20Unsorted%20Arrays%20In-Place/Merge.js)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/347.%20Top%20K%20Frequent%20Elements/TopKFrequent.js)|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/349.%20Intersection%20of%20Two%20Arrays/Intersection.js)|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/350.%20Intersection%20of%20Two%20Arrays%20II/Intersect.js)|
@@ -221,4 +221,9 @@
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/365.%20Water%20and%20Jug%20Problem/CanMeasureWater.js)|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/367.%20Valid%20Perfect%20Square/IsPerfectSquare.js)|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/371.%20Sum%20of%20Two%20Integers/GetSum.js)|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Java](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/374.%20Guess%20Number%20Higher%20or%20Lower/GuessNumber.java)|
+|375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/375.%20Guess%20Number%20Higher%20or%20Lower%20II/GetMoneyAmount.js)|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/376.%20Wiggle%20Subsequence/WiggleMaxLength.js)|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/377.%20Combination%20Sum%20IV/CombinationSum4.js)|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/KthSmallest.js)|
 |380|[Insert Delete GetRandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/380.%20Insert%20Delete%20GetRandom%20O1/RandomizedSet.js)|
