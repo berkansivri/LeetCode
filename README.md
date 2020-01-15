@@ -229,3 +229,5 @@
 |380|[Insert Delete GetRandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/380.%20Insert%20Delete%20GetRandom%20O1/RandomizedSet.js)|
 |381|[Insert Delete GetRandom O1 Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/381.%20Insert%20Delete%20GetRandom%20O1%20Duplicates%20allowed/RandomizedCollection.js)|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/382.%20Linked%20List%20Random%20Node/GetRandom.js)|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/383.%20Ransom%20Note/CanConstruct.js)|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/384.%20Shuffle%20an%20Array/Solution.js)|
