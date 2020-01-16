@@ -232,3 +232,4 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/383.%20Ransom%20Note/CanConstruct.js)|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/384.%20Shuffle%20an%20Array/Solution.js)|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/385.%20Mini%20Parser/NestedInteger.js)|
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/386.%20Lexicographical%20Numbers/LexicalOrder.js)|
