@@ -234,3 +234,4 @@
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/385.%20Mini%20Parser/NestedInteger.js)|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/386.%20Lexicographical%20Numbers/LexicalOrder.js)|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/419.%20Battleships%20in%20a%20Board/CountBattleships.js)|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/FirstUniqChar.js)|
