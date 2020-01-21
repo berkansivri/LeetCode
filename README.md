@@ -233,3 +233,4 @@
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/384.%20Shuffle%20an%20Array/Solution.js)|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/385.%20Mini%20Parser/NestedInteger.js)|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/386.%20Lexicographical%20Numbers/LexicalOrder.js)|
+|419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/419.%20Battleships%20in%20a%20Board/CountBattleships.js)|
