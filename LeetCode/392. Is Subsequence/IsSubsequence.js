@@ -18,4 +18,4 @@ var isSubsequence = function(s, t) {
 
 console.log(isSubsequence("abc", "ahbgdc"));
 console.log(isSubsequence("axc", "ahbgdc"));
-console.log(isSubsequence("", "ahbgdc"));
+console.log(isSubsequence("", "ahbgdc")); //try
