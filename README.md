@@ -237,3 +237,4 @@
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/387.%20First%20Unique%20Character%20in%20a%20String/FirstUniqChar.js)|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/389.%20Find%20the%20Difference/FindTheDifference.js)|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/390.%20Elimination%20Game/LastRemaining.js)|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/392.%20Is%20Subsequence/IsSubsequence.js)|
