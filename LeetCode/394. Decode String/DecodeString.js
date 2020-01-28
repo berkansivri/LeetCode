@@ -11,10 +11,13 @@ var decodeString = function (s) {
     }
 
     let str = ''
-    while(stack.slice(-1)[0] !== "[") str = stack.pop() + str // pop until [ to get string part
+    while(stack.slice(-1)[0] !== "[") 
+      str = stack.pop() + str // pop until [ to get string part
     stack.pop() // pop for [
+
     let num = ''
-    while(!isNaN(stack.slice(-1)[0])) num = stack.pop() + num // pop until not number char
+    while(!isNaN(stack.slice(-1)[0])) 
+      num = stack.pop() + num // pop until not number char
     
     stack.push(str.repeat(num)) // push repeated string to stack again
   }
