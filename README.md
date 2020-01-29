@@ -239,3 +239,4 @@
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/390.%20Elimination%20Game/LastRemaining.js)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/392.%20Is%20Subsequence/IsSubsequence.js)|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/394.%20Decode%20String/DecodeString.js)|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/LongestSubstring.js)|
