@@ -242,3 +242,4 @@
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/395.%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters/LongestSubstring.js)|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/396.%20Rotate%20Function/MaxRotateFunction.js)|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/397.%20Integer%20Replacement/IntegerReplacement.js)|
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/398.%20Random%20Pick%20Index/Solution.js)|
