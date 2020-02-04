@@ -244,3 +244,4 @@
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/397.%20Integer%20Replacement/IntegerReplacement.js)|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/398.%20Random%20Pick%20Index/Solution.js)|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/399.%20Evaluate%20Division/CalcEquation.js)|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/400.%20Nth%20Digit/FindNthDigit.js)|
