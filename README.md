@@ -247,8 +247,5 @@
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/400.%20Nth%20Digit/FindNthDigit.js)|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/401.%20Binary%20Watch/ReadBinaryWatch.js)|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/402.%20Remove%20K%20Digits/RemoveKDigits.js)|
-<<<<<<< HEAD
-|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/404.%20Sum%20of%20Left%20Leaves/SumofLeftLeaves.js)|
-=======
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/403.%20Frog%20Jump/CanCross.js)|
->>>>>>> 35f51768aa39a80fe788f3cd53ac92886bcbdc48
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/404.%20Sum%20of%20Left%20Leaves/SumofLeftLeaves.js)|

@@ -9,7 +9,16 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var sumOfLeftLeaves = function(root) {
+
+var sumOfLeftLeaves = function(root, isLeft) {
+  if(!root) return 0
+  if(!root.left && !root.right && isLeft)
+    return root.val
+  
+  return sumOfLeftLeaves(root.left, true) + sumOfLeftLeaves(root.right, false)
+}
+
+var sumOfLeftLeaves2 = function(root) {
   if(!root) return 0
   let sum = 0
   const iter = (node, isLeft) => {
