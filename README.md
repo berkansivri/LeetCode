@@ -249,3 +249,4 @@
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/402.%20Remove%20K%20Digits/RemoveKDigits.js)|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/403.%20Frog%20Jump/CanCross.js)|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/404.%20Sum%20of%20Left%20Leaves/SumofLeftLeaves.js)|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/405.%20Convert%20a%20Number%20to%20Hexadecimal/ToHex.js)|
