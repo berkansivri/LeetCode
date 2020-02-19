@@ -254,3 +254,4 @@
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/409.%20Longest%20Palindrome/LongestPalindrome.js)|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/410.%20Split%20Array%20Largest%20Sum/SplitArray.js)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/412.%20Fizz%20Buzz/FizzBuzz.js)|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/413.%20Arithmetic%20Slices/NumberOfArithmeticSlices.js)|
