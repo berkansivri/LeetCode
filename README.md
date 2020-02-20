@@ -255,3 +255,5 @@
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/410.%20Split%20Array%20Largest%20Sum/SplitArray.js)|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/412.%20Fizz%20Buzz/FizzBuzz.js)|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/413.%20Arithmetic%20Slices/NumberOfArithmeticSlices.js)|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/414.%20Third%20Maximum%20Number/ThirdMax.js)|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/415.%20Add%20Strings/AddStrings.js)|
