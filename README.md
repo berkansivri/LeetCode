@@ -1,4 +1,5 @@
-| # | Title | Source Code | 
+<a href="http://leetcode.com/berkansivri" target="_blank"> LeetCode Profile </a>
+| # | Title | Source Code |
 |:---:|:---:|:---:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1.%20Two%20Sum/TwoSum.js)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/2.%20Add%20Two%20Numbers/AddTwoNumbers.js)|
