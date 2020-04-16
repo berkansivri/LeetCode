@@ -266,3 +266,4 @@
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/844.%20Backspace%20String%20Compare/BackspaceCompare.js)|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/543.%20Diameter%20of%20Binary%20Tree/DiameterofBinaryTree.js)|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1046.%20Last%20Stone%20Weight/LastStoneWeight.js)|
+|678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/678.%20Valid%20Parenthesis%20String/CheckValidString.js)|
