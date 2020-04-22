@@ -268,3 +268,4 @@
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1046.%20Last%20Stone%20Weight/LastStoneWeight.js)|
 |678|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/678.%20Valid%20Parenthesis%20String/CheckValidString.js)|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal/BstFromPreorder.js)|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/560.%20Subarray%20Sum%20Equals%20K/SubarraySum.js)|
