@@ -271,3 +271,4 @@
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/560.%20Subarray%20Sum%20Equals%20K/SubarraySum.js)|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/424.%20Longest%20Repeating%20Character%20Replacement/CharacterReplacement.js)|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1143.%20Longest%20Common%20Subsequence/LongestCommonSubsequence.js)|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/221.%20Maximal%20Square/MaximalSquare.js)|
