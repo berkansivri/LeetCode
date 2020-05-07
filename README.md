@@ -274,3 +274,4 @@
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/221.%20Maximal%20Square/MaximalSquare.js)|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/771.%20Jewels%20and%20Stones/NumJevelsInStones.js)|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/476.%20Number%20Complement/FindComplement.js)|
+|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/993.%20Cousins%20in%20Binary%20Tree/IsCousins.js)|
