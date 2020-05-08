@@ -275,3 +275,4 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/771.%20Jewels%20and%20Stones/NumJevelsInStones.js)|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/476.%20Number%20Complement/FindComplement.js)|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/993.%20Cousins%20in%20Binary%20Tree/IsCousins.js)|
+|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/CheckStraightLine.js)|
