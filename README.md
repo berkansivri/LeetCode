@@ -279,3 +279,4 @@
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/429.%20N-ary%20Tree%20Level%20Order%20Traversal/LevelOrder.js)|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/997.%20Find%20the%20Town%20Judge/FindJudge.js)|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/733.%20Flood%20Fill/FloodFill.js)|
+|540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/540.%20Single%20Element%20in%20a%20Sorted%20Array/SingleNonDuplicate.js)|
