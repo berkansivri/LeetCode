@@ -280,3 +280,4 @@
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/997.%20Find%20the%20Town%20Judge/FindJudge.js)|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/733.%20Flood%20Fill/FloodFill.js)|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/540.%20Single%20Element%20in%20a%20Sorted%20Array/SingleNonDuplicate.js)|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-(prefix-tree)/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/208.%20Implement%20Trie%20(Prefix%20Tree)/Trie.js)|
