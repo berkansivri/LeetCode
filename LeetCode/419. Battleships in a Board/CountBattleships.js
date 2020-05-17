@@ -17,10 +17,12 @@ var countBattleships = function (board) {
     }
   }
   return count
-};
+}
 
-console.log(countBattleships([
-  ["X", ".", ".", "X"],
-  ["X", ".", ".", "X"],
-  ["X", ".", ".", "X"]
-]));
+console.log(
+  countBattleships([
+    ['X', '.', '.', 'X'],
+    ['X', '.', '.', 'X'],
+    ['X', '.', '.', 'X']
+  ])
+)

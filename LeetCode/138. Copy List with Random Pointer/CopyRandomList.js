@@ -12,7 +12,8 @@
  */
 var copyRandomList = function (head) {
   if (!head) return null
-  let map = new Map(), node = head
+  let map = new Map(),
+    node = head
   while (node) {
     map.set(node, new Node(node.val))
     node = node.next
@@ -24,17 +25,16 @@ var copyRandomList = function (head) {
     node = node.next
   }
   return map.get(head)
-};
+}
 
 let a = new Node(1)
 a.next = new Node(2)
 a.next.random = new Node(2)
 a.random = new Node(3)
-console.log(copyRandomList(a));
-
+console.log(copyRandomList(a))
 
 function Node(val, next, random) {
-  this.val = val;
-  this.next = next;
-  this.random = random;
-};
+  this.val = val
+  this.next = next
+  this.random = random
+}

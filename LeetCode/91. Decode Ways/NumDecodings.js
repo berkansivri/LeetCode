@@ -2,12 +2,12 @@
  * @param {string} s
  * @return {number}
  */
-var numDecodings = function(s) {
-  let f = [...[1, s[0] === '0' ? 0 : 1]] 
-  
+var numDecodings = function (s) {
+  let f = [...[1, s[0] === '0' ? 0 : 1]]
+
   for (let i = 1; i < s.length; i++) {
     f.push(0)
-    if (s[i] !== "0") {
+    if (s[i] !== '0') {
       f[i + 1] += f[i]
     }
     if (i === 0) continue
@@ -18,7 +18,7 @@ var numDecodings = function(s) {
   }
   return f.pop()
 }
-console.log(numDecodings("2215"))
+console.log(numDecodings('2215'))
 
 // 2 2 1 5
 // 2 21 5

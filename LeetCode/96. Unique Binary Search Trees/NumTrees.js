@@ -2,7 +2,7 @@
  * @param {number} n
  * @return {number}
  */
-var numTrees = function(n) {
+var numTrees = function (n) {
   let arr = new Array(n + 1).fill(0)
   arr[0] = arr[1] = 1
 
@@ -13,7 +13,7 @@ var numTrees = function(n) {
       }
     return arr[n]
   }
-  
+
   iter(n)
   return arr[n]
 }

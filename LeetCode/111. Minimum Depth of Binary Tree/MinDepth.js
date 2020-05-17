@@ -9,17 +9,18 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var minDepth = function(root) {
+var minDepth = function (root) {
   if (!root) return 0
   const depth = node => {
     if (!node) return 0
-    let left = depth(node.left), right = depth(node.right)
-    return 1 + (Math.min(left,right) || Math.max(left, right))
+    let left = depth(node.left),
+      right = depth(node.right)
+    return 1 + (Math.min(left, right) || Math.max(left, right))
   }
   return depth(root)
 }
 
-console.log(minDepth(toBTree([1,2,3,4,null,null,5])))
+console.log(minDepth(toBTree([1, 2, 3, 4, null, null, 5])))
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null

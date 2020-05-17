@@ -9,8 +9,9 @@
  * @param {TreeNode} root
  * @return {void} Do not return anything, modify root in-place instead.
  */
-var flatten = function(root) { 
-  let pre, cur = root
+var flatten = function (root) {
+  let pre,
+    cur = root
   while (cur) {
     if (!cur.left) cur = cur.right
     else {
@@ -25,7 +26,7 @@ var flatten = function(root) {
   console.log(root)
 }
 
-console.log(flatten(toBTree([1,2,5,3,4,null,6])))
+console.log(flatten(toBTree([1, 2, 5, 3, 4, null, 6])))
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null

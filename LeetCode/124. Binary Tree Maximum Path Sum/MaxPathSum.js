@@ -11,7 +11,7 @@
  */
 var maxPathSum = function (root) {
   let max = Number.MIN_SAFE_INTEGER
-  const iter = (node) => {
+  const iter = node => {
     if (!node) return 0
     let left = Math.max(0, iter(node.left))
     let right = Math.max(0, iter(node.right))
@@ -20,7 +20,7 @@ var maxPathSum = function (root) {
   }
   iter(root)
   return max
-};
+}
 
 console.log(maxPathSum(toBTree([1, 2, 3])))
 console.log(maxPathSum(toBTree([-10, 9, 20, null, null, 15, 7])))
@@ -35,6 +35,6 @@ function toBTree(array, i = 0) {
 }
 
 function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
+  this.val = val
+  this.left = this.right = null
 }

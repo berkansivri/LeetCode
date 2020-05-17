@@ -9,7 +9,7 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-var zigzagLevelOrder = function(root) {
+var zigzagLevelOrder = function (root) {
   let map = {},
     level = 0
   if (root) map[level] = [root.val]
@@ -27,8 +27,8 @@ var zigzagLevelOrder = function(root) {
   iter(root.left, root.right)
 
   return Object.values(map)
-      .map(x => x.filter(y => y !== null))
-      .filter(z => z.length)
+    .map(x => x.filter(y => y !== null))
+    .filter(z => z.length)
 }
 
 function toBTree(array, i = 0) {
@@ -45,6 +45,4 @@ function TreeNode(val) {
 }
 
 console.log(zigzagLevelOrder(toBTree([3, 9, 20, null, null, 15, 7])))
-console.log(
-  zigzagLevelOrder(toBTree([0, 2, 4, 1, null, 3, -1, 5, 1, null, 6, null, 8]))
-)
+console.log(zigzagLevelOrder(toBTree([0, 2, 4, 1, null, 3, -1, 5, 1, null, 6, null, 8])))

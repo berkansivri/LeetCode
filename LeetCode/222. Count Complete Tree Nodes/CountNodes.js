@@ -12,7 +12,7 @@
 var countNodes = function (root) {
   if (!root) return 0
   let count = 1
-  const iter = (node) => {
+  const iter = node => {
     if (node.left) {
       count++
       iter(node.left)
@@ -24,10 +24,10 @@ var countNodes = function (root) {
   }
   iter(root)
   return count
-};
+}
 
-console.log(countNodes(toBTree([])));
-console.log(countNodes(toBTree([1, 2, 3, 4, 5, 6])));
+console.log(countNodes(toBTree([])))
+console.log(countNodes(toBTree([1, 2, 3, 4, 5, 6])))
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -38,6 +38,6 @@ function toBTree(array, i = 0) {
 }
 
 function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
+  this.val = val
+  this.left = this.right = null
 }

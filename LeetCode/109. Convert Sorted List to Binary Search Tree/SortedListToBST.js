@@ -16,7 +16,7 @@
  * @param {ListNode} head
  * @return {TreeNode}
  */
-var sortedListToBST = function(head) {
+var sortedListToBST = function (head) {
   let arr = []
   while (head) {
     arr.push(head.val)

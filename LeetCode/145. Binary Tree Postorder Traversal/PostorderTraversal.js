@@ -11,7 +11,8 @@
  */
 var postorderTraversal = function (root) {
   if (!root) return []
-  let stack = [root], res = []
+  let stack = [root],
+    res = []
   while (stack.length) {
     let node = stack.pop()
     res.push(node.val)
@@ -19,11 +20,11 @@ var postorderTraversal = function (root) {
     if (node.right) stack.push(node.right)
   }
   return res.reverse()
-};
+}
 
-console.log(postorderTraversal(toBTree([1, null, 2, 3])));
-console.log(postorderTraversal(toBTree([])));
-console.log(postorderTraversal(toBTree([1, 2, 3, 4, 5])));
+console.log(postorderTraversal(toBTree([1, null, 2, 3])))
+console.log(postorderTraversal(toBTree([])))
+console.log(postorderTraversal(toBTree([1, 2, 3, 4, 5])))
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -34,6 +35,6 @@ function toBTree(array, i = 0) {
 }
 
 function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
+  this.val = val
+  this.left = this.right = null
 }

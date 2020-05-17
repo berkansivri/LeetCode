@@ -9,9 +9,11 @@
  * @param {number} H
  * @return {number}
  */
-var computeArea = function(A, B, C, D, E, F, G, H) {
-  let left = Math.max(A,E), right = Math.max(Math.min(C,G), left)
-  let bottom = Math.max(B,F), top = Math.max(Math.min(D,H), bottom)
+var computeArea = function (A, B, C, D, E, F, G, H) {
+  let left = Math.max(A, E),
+    right = Math.max(Math.min(C, G), left)
+  let bottom = Math.max(B, F),
+    top = Math.max(Math.min(D, H), bottom)
 
-  return ((C-A)*(D-B)) + ((G-E)*(H-F)) - ((right-left) * (top-bottom))
-};
+  return (C - A) * (D - B) + (G - E) * (H - F) - (right - left) * (top - bottom)
+}

@@ -30,8 +30,7 @@
  */
 var NestedIterator = function (nestedList) {
   this.arr = nestedList
-};
-
+}
 
 /**
  * @this NestedIterator
@@ -39,12 +38,10 @@ var NestedIterator = function (nestedList) {
  */
 NestedIterator.prototype.hasNext = function () {
   while (this.arr.length != 0) {
-    if (this.arr[0].isInteger())
-      return true
-    else 
-      this.arr.splice(0, 1, ...this.arr[0].getList())
+    if (this.arr[0].isInteger()) return true
+    else this.arr.splice(0, 1, ...this.arr[0].getList())
   }
-};
+}
 
 /**
  * @this NestedIterator
@@ -60,11 +57,8 @@ NestedIterator.prototype.next = function () {
  * while (i.hasNext()) a.push(i.next());
  */
 
-let i = new NestedIterator(
-  [1, [4, [6]]]
-)
+let i = new NestedIterator([1, [4, [6]]])
 let a = []
-while (i.hasNext())
-  a.push(i.next())
+while (i.hasNext()) a.push(i.next())
 
-console.log(a);
+console.log(a)

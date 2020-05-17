@@ -15,10 +15,10 @@ var isIsomorphic = function (s, t) {
     }
   }
   return true
-};
+}
 
-console.log(isIsomorphic("ab", "aa")); //false
-console.log(isIsomorphic("paper", "title")); //true
-console.log(isIsomorphic("aba", "baa"));
-console.log(isIsomorphic("egg", "add"));
-console.log(isIsomorphic("foo", "bar"));
+console.log(isIsomorphic('ab', 'aa')) //false
+console.log(isIsomorphic('paper', 'title')) //true
+console.log(isIsomorphic('aba', 'baa'))
+console.log(isIsomorphic('egg', 'add'))
+console.log(isIsomorphic('foo', 'bar'))

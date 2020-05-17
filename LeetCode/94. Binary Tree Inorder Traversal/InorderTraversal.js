@@ -9,8 +9,9 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-var inorderTraversal = function(root) {
-  let stack = [], res = []
+var inorderTraversal = function (root) {
+  let stack = [],
+    res = []
   while (root || stack.length) {
     if (root) {
       stack.push(root)

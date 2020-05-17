@@ -15,10 +15,10 @@ var longestConsecutive = function (nums) {
       counts[k] = 0
     }
   }
-  return (Math.max(...counts) + 1)
-};
+  return Math.max(...counts) + 1
+}
 
-console.log(longestConsecutive([100, 4, 200, 1, 3, 2]));
-console.log(longestConsecutive([200]));
-console.log(longestConsecutive([1, 2, 0, 1]));
-console.log(longestConsecutive([]));
+console.log(longestConsecutive([100, 4, 200, 1, 3, 2]))
+console.log(longestConsecutive([200]))
+console.log(longestConsecutive([1, 2, 0, 1]))
+console.log(longestConsecutive([]))

@@ -23,6 +23,5 @@ console.log(productExceptSelf([1, 0]))
 console.log(productExceptSelf([0, 0]))
 console.log(productExceptSelf([1, 2, 3, 4]))
 
-
 // one liner & slow
 // return nums.map((n, i) => nums.reduce((p, c, j) => (i !== j && (p *= c), p), 1))

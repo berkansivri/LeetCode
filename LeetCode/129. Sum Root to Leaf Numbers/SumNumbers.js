@@ -20,9 +20,9 @@ var sumNumbers = function (root) {
       iter(node.right, node.val)
     }
   }
-  iter(root, "")
+  iter(root, '')
   return sum
-};
+}
 
 console.log(sumNumbers(toBTree([4, 9, 0, 5, 1])))
 console.log(sumNumbers(toBTree([1, 2, 3])))
@@ -38,6 +38,6 @@ function toBTree(array, i = 0) {
 }
 
 function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
+  this.val = val
+  this.left = this.right = null
 }

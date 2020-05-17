@@ -18,7 +18,7 @@ var combinationSum3 = function (k, n) {
   }
   iter([], k, 1, n)
   return ans
-};
+}
 
-console.log(combinationSum3(3, 7));
-console.log(combinationSum3(3, 9));
+console.log(combinationSum3(3, 7))
+console.log(combinationSum3(3, 9))

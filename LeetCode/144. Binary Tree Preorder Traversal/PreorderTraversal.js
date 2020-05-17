@@ -10,21 +10,20 @@
  * @return {number[]}
  */
 var preorderTraversal = function (root) {
-  let res = [], stack = []
+  let res = [],
+    stack = []
   while (root) {
     res.push(root.val)
     if (root.right) stack.push(root.right)
-    if (root.left)
-      root = root.left
-    else
-      root = stack.pop() 
+    if (root.left) root = root.left
+    else root = stack.pop()
   }
   return res
-};
+}
 
-console.log(preorderTraversal(toBTree([1, 2, 3, 4, 5])));
-console.log(preorderTraversal(toBTree([1, null, 2, 3])));
-console.log(preorderTraversal(toBTree([])));
+console.log(preorderTraversal(toBTree([1, 2, 3, 4, 5])))
+console.log(preorderTraversal(toBTree([1, null, 2, 3])))
+console.log(preorderTraversal(toBTree([])))
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -35,6 +34,6 @@ function toBTree(array, i = 0) {
 }
 
 function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
+  this.val = val
+  this.left = this.right = null
 }

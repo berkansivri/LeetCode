@@ -19,7 +19,7 @@ var findDuplicate = function (nums) {
     return slow
   }
   return -1
-};
+}
 
-console.log(findDuplicate([1, 3, 4, 2, 2]));
-console.log(findDuplicate([3, 1, 3, 4, 2]));
+console.log(findDuplicate([1, 3, 4, 2, 2]))
+console.log(findDuplicate([3, 1, 3, 4, 2]))

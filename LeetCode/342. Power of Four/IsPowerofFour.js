@@ -10,7 +10,7 @@ var isPowerOfFour = function (num) {
     i *= 4
   }
   return false
-};
+}
 
 console.log(isPowerOfFour(2))
 console.log(isPowerOfFour(-2147483648))

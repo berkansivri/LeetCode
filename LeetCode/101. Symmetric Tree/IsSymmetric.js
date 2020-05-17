@@ -9,7 +9,7 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-var isSymmetric = function(root) { 
+var isSymmetric = function (root) {
   const check = (l, r) => {
     if (l && r) {
       if (l.val !== r.val) return false

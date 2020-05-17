@@ -10,7 +10,7 @@
  * @param {number} sum
  * @return {boolean}
  */
-var hasPathSum = function(root, sum) {
+var hasPathSum = function (root, sum) {
   const iter = (node, sum) => {
     if (!node) return false
     if (!node.left && !node.right && sum - node.val === 0) return true
@@ -19,9 +19,7 @@ var hasPathSum = function(root, sum) {
   return iter(root, sum)
 }
 
-console.log(
-  hasPathSum(toBTree([5, 4, 8, 11, null, 13, 4, 7, 2, null, null, null, 1]), 22)
-)
+console.log(hasPathSum(toBTree([5, 4, 8, 11, null, 13, 4, 7, 2, null, null, null, 1]), 22))
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null

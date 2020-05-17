@@ -2,8 +2,9 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var subsets2 = function(nums) {
-  let res = [], len = nums.length
+var subsets2 = function (nums) {
+  let res = [],
+    len = nums.length
   const rec = (arr, l, i) => {
     if (arr.length === l) res.push([...arr])
     else {
@@ -22,17 +23,17 @@ var subsets2 = function(nums) {
 
 //Better from discuss
 function subsets(nums) {
-	const powerset = [];
-	generatePowerset([], 0);
+  const powerset = []
+  generatePowerset([], 0)
 
-	function generatePowerset(path, index) {
-		powerset.push(path);
-		for (let i = index; i < nums.length; i++) {
-			generatePowerset([...path, nums[i]], i + 1);
-		}
-	}
+  function generatePowerset(path, index) {
+    powerset.push(path)
+    for (let i = index; i < nums.length; i++) {
+      generatePowerset([...path, nums[i]], i + 1)
+    }
+  }
 
-	return powerset;
+  return powerset
 }
 
 console.log(subsets([1, 2, 3]))

@@ -9,7 +9,7 @@ var firstUniqChar = function (s) {
   }
   const vals = Object.values(char).filter(x => x !== null)
   return vals.length ? vals[0] : -1
-};
+}
 
-console.log(firstUniqChar("leetcode"));
-console.log(firstUniqChar("loveleetcode"));
+console.log(firstUniqChar('leetcode'))
+console.log(firstUniqChar('loveleetcode'))

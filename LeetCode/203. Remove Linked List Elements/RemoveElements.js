@@ -24,23 +24,23 @@ var removeElements2 = function (head, val) {
     } else head = head.next
   }
   return root
-};
+}
 
 var removeElements = function (head, val) {
-  let dummy = new ListNode();
-  dummy.next = head;
-  let cur = dummy;
+  let dummy = new ListNode()
+  dummy.next = head
+  let cur = dummy
 
   while (cur.next) {
     if (cur.next.val == val) cur.next = cur.next.next
-    else cur = cur.next;
+    else cur = cur.next
   }
-  return dummy.next;
+  return dummy.next
 }
 
 function ListNode(val) {
-  this.val = val;
-  this.next = null;
+  this.val = val
+  this.next = null
 }
 
 function toListNode(arr) {
@@ -53,6 +53,6 @@ function toListNode(arr) {
   return node.next
 }
 
-console.log(removeElements(toListNode([1, 2, 6, 3, 4, 5, 6]), 6));
-console.log(removeElements(toListNode([1]), 1));
-console.log(removeElements(toListNode([1, 1]), 1));
+console.log(removeElements(toListNode([1, 2, 6, 3, 4, 5, 6]), 6))
+console.log(removeElements(toListNode([1]), 1))
+console.log(removeElements(toListNode([1, 1]), 1))

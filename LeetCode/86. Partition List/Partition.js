@@ -10,8 +10,9 @@
  * @param {number} x
  * @return {ListNode}
  */
-var partition = function(head, x) {
-  let temp = head, node = new ListNode()
+var partition = function (head, x) {
+  let temp = head,
+    node = new ListNode()
   let result = node
   while (head) {
     if (head.val < x) {

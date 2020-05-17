@@ -58,8 +58,8 @@ var deserialize = function (s) {
         stack[stack.length - 1].add(ni)
       }
       start = i + 1
-      if (s[i] === "]") stack.pop()
+      if (s[i] === ']') stack.pop()
     }
   }
   return res
-};
+}

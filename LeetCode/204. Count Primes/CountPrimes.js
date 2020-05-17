@@ -11,8 +11,8 @@ var countPrimes = function (n) {
     }
   }
   return nums.filter(x => x).length
-};
+}
 
-console.log(countPrimes(10));
-console.log(countPrimes(15));
-console.log(countPrimes(20));
+console.log(countPrimes(10))
+console.log(countPrimes(15))
+console.log(countPrimes(20))

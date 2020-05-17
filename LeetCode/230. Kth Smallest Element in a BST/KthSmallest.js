@@ -12,7 +12,7 @@
  */
 var kthSmallest = function (root, k) {
   let result = null
-  const iter = (node) => {
+  const iter = node => {
     if (!node) return
     iter(node.left)
     k--
@@ -24,8 +24,7 @@ var kthSmallest = function (root, k) {
   }
   iter(root)
   return result
-};
-
+}
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -36,8 +35,8 @@ function toBTree(array, i = 0) {
 }
 
 function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
+  this.val = val
+  this.left = this.right = null
 }
 
 console.log(kthSmallest(toBTree([5, 3, 6, 2, 4, null, null, 1]), 3))

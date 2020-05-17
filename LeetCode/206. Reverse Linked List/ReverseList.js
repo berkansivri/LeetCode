@@ -10,30 +10,29 @@
  * @return {ListNode}
  */
 var reverseList2 = function (head) {
-
-  var tmp = null;
-  var newHead = null;
+  var tmp = null
+  var newHead = null
   while (head !== null) {
-    tmp = head;
-    head = head.next;
-    tmp.next = newHead;
-    newHead = tmp;
+    tmp = head
+    head = head.next
+    tmp.next = newHead
+    newHead = tmp
   }
 
-  return newHead;
+  return newHead
 }
 
 var reverseList = function (head) {
   let [prev, current] = [null, head]
   while (current) {
-    [current.next, prev, current] = [prev, current, current.next]
+    ;[current.next, prev, current] = [prev, current, current.next]
   }
   return prev
 }
 
 function ListNode(val) {
-  this.val = val;
-  this.next = null;
+  this.val = val
+  this.next = null
 }
 
 function toLinkedList(arr) {
@@ -46,4 +45,4 @@ function toLinkedList(arr) {
   return node.next
 }
 
-console.log(reverseList(toLinkedList([1, 2, 3, 4, 5])));
+console.log(reverseList(toLinkedList([1, 2, 3, 4, 5])))

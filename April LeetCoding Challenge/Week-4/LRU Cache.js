@@ -2,12 +2,12 @@
  * @param {number} capacity
  */
 var LRUCache = function (capacity) {
-  this.map = {};
-  this.arr = [];
-  this.len = 0;
-  this.cap = capacity;
+  this.map = {}
+  this.arr = []
+  this.len = 0
+  this.cap = capacity
   this.indexes = {}
-};
+}
 
 /**
  * @param {number} key
@@ -19,10 +19,10 @@ LRUCache.prototype.get = function (key) {
     delete this.arr[this.indexes[key]]
     this.indexes[key] = this.arr.length
     this.arr.push(key)
-    val = this.map[key];
+    val = this.map[key]
   }
-  return val;
-};
+  return val
+}
 
 /**
  * @param {number} key
@@ -30,14 +30,15 @@ LRUCache.prototype.get = function (key) {
  * @return {void}
  */
 LRUCache.prototype.put = function (key, value) {
-  if(this.map[key]) {
+  if (this.map[key]) {
     delete this.arr[this.indexes[key]]
     this.indexes[key] = this.arr.length
     this.arr.push(key)
     this.map[key] = value
-  } else if(this.len === this.cap){
-    let deletedKey = this.arr[0], i = 0
-    while(!deletedKey) {
+  } else if (this.len === this.cap) {
+    let deletedKey = this.arr[0],
+      i = 0
+    while (!deletedKey) {
       deletedKey = this.arr[++i]
     }
     delete this.arr[i]
@@ -52,7 +53,7 @@ LRUCache.prototype.put = function (key, value) {
     this.arr.push(key)
     this.len++
   }
-};
+}
 
 /**
  * Your LRUCache object will be instantiated and called as such:
@@ -73,18 +74,18 @@ LRUCache.prototype.put = function (key, value) {
 // cache.get(3); // returns 3
 // cache.get(4); // returns 4
 
-const cache = new LRUCache(3 /* capacity */);
-cache.put(1, 1);
-cache.put(2, 2);
-cache.put(3, 3);
-cache.put(4, 4);
-cache.get(4); 
-cache.get(3); 
-cache.get(2); 
-cache.get(1);
-cache.put(5,5) 
-cache.get(1) 
-cache.get(2) 
-cache.get(3) 
-cache.get(4) 
+const cache = new LRUCache(3 /* capacity */)
+cache.put(1, 1)
+cache.put(2, 2)
+cache.put(3, 3)
+cache.put(4, 4)
+cache.get(4)
+cache.get(3)
+cache.get(2)
+cache.get(1)
+cache.put(5, 5)
+cache.get(1)
+cache.get(2)
+cache.get(3)
+cache.get(4)
 cache.get(5)

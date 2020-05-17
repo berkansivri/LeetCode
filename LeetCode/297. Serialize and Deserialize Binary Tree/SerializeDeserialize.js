@@ -12,12 +12,12 @@
  * @param {TreeNode} root
  * @return {string}
  */
-var serialize = function(root) {
-  if(!root) return {}
+var serialize = function (root) {
+  if (!root) return {}
   let node = root
   let map = { 0: [node.val] }
   const iter = (node, lvl) => {
-    if(!node) return
+    if (!node) return
     map[lvl] = map[lvl] || []
     map[lvl].push(node.left ? node.left.val : null)
     iter(node.left, lvl + 1)
@@ -27,7 +27,7 @@ var serialize = function(root) {
   iter(node, 1)
   delete map[Object.values(map).length - 1]
   return map
-};
+}
 
 /**
  * Decodes your encoded data to tree.
@@ -35,18 +35,18 @@ var serialize = function(root) {
  * @param {string} data
  * @return {TreeNode}
  */
-var deserialize = function(data) {
+var deserialize = function (data) {
   let tree = new TreeNode()
   let node = tree
   const iter = (node, lvl) => {
-    if(data[lvl]) {
+    if (data[lvl]) {
       let val = data[lvl].shift()
-      if(val !== null) {
+      if (val !== null) {
         node.left = new TreeNode(val)
         iter(node.left, lvl + 1)
       }
       val = data[lvl].shift()
-      if(val !== null) {
+      if (val !== null) {
         node.right = new TreeNode(val)
         iter(node.right, lvl + 1)
       }
@@ -54,13 +54,12 @@ var deserialize = function(data) {
   }
   iter(node, 0)
   return tree.left
-};
+}
 
 /**
  * Your functions will be called as such:
  * deserialize(serialize(root));
  */
-
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -75,8 +74,8 @@ function TreeNode(val) {
   this.left = this.right = null
 }
 
-const obj = serialize(toBTree([1,2,3,null,null,4,5]));
-console.log(obj);
-const tree = deserialize(obj);
-console.log(tree);
+const obj = serialize(toBTree([1, 2, 3, null, null, 4, 5]))
+console.log(obj)
+const tree = deserialize(obj)
+console.log(tree)
 // console.log(serialize(toBTree([1,2,3,null,null,4,5,null,null,null,null,6,7])));

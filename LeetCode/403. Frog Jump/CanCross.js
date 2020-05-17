@@ -4,21 +4,21 @@
  */
 
 function canCross(stones) {
-  let dp = [[0]];
+  let dp = [[0]]
 
   for (let i = 1; i < stones.length; i++) {
-    dp[i] = [];
+    dp[i] = []
     for (let j = 0; j < i; j++) {
       for (let step of dp[j]) {
         if (Math.abs(stones[j] + step - stones[i]) <= 1) {
-          dp[i].push(stones[i] - stones[j]);
-          break;
+          dp[i].push(stones[i] - stones[j])
+          break
         }
       }
     }
   }
 
-  return dp[stones.length - 1].length > 0;
+  return dp[stones.length - 1].length > 0
 }
 
 var canCross2 = function (stones) {
@@ -29,8 +29,7 @@ var canCross2 = function (stones) {
   for (let stone of stones) {
     for (let step of map.get(stone)) {
       let reach = step + stone
-      if (reach === stones.slice(-1)[0])
-        return true
+      if (reach === stones.slice(-1)[0]) return true
       const arr = map.get(reach)
       if (arr) {
         arr.push(step, step + 1)
@@ -39,7 +38,7 @@ var canCross2 = function (stones) {
     }
   }
   return false
-};
+}
 
-console.log(canCross([0, 1, 3, 5, 6, 8, 12, 17]));
-console.log(canCross([0, 1, 2, 3, 4, 8, 9, 11]));
+console.log(canCross([0, 1, 3, 5, 6, 8, 12, 17]))
+console.log(canCross([0, 1, 2, 3, 4, 8, 9, 11]))

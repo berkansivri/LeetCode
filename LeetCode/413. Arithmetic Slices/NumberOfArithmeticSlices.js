@@ -15,10 +15,10 @@ var numberOfArithmeticSlices = function (A) {
     }
   }
   return count
-};
+}
 
-console.log(numberOfArithmeticSlices([1, 2, 3, 4])); // 3
-console.log(numberOfArithmeticSlices([1, 2, 3, 4, 5])); // 6
-console.log(numberOfArithmeticSlices([1, 2, 3, 4, 5, 6])); // 10
-console.log(numberOfArithmeticSlices([1, 2, 3, 4, 5, 6, 7])); // 15
-console.log(numberOfArithmeticSlices([1, 2, 3, 4, 6, 7, 8, 9]));
+console.log(numberOfArithmeticSlices([1, 2, 3, 4])) // 3
+console.log(numberOfArithmeticSlices([1, 2, 3, 4, 5])) // 6
+console.log(numberOfArithmeticSlices([1, 2, 3, 4, 5, 6])) // 10
+console.log(numberOfArithmeticSlices([1, 2, 3, 4, 5, 6, 7])) // 15
+console.log(numberOfArithmeticSlices([1, 2, 3, 4, 6, 7, 8, 9]))

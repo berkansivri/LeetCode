@@ -2,12 +2,12 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var subsetsWithDup = function(nums) {
+var subsetsWithDup = function (nums) {
   var result = []
   nums.sort((a, b) => a - b)
   const len = nums.length
 
-  const iter = function(arr, start) {
+  const iter = function (arr, start) {
     result.push([...arr])
     for (let i = start; i < len; i++) {
       if (i > start && nums[i] === nums[i - 1]) continue

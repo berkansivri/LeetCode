@@ -12,12 +12,11 @@
  * @return {boolean}
  */
 var isValidSequence = function (root, arr) {
-
   const iter = (node, index) => {
-    if(!node || index >= arr.length) return false
-    if(node.val === arr[index]) {
-      if(!node.left && !node.right && index === arr.length - 1) return true
-      return iter(node.left, index+1) || iter(node.right, index+1)
+    if (!node || index >= arr.length) return false
+    if (node.val === arr[index]) {
+      if (!node.left && !node.right && index === arr.length - 1) return true
+      return iter(node.left, index + 1) || iter(node.right, index + 1)
     }
     return false
   }
@@ -38,18 +37,6 @@ function TreeNode(val, left, right) {
   this.right = right === undefined ? null : right
 }
 
-console.log(
-  isValidSequence(
-    toBTree([0, 1, 0, 0, 1, 0, null, null, 1, 0, 0]), [0, 0, 1]
-  )
-)
-console.log(
-  isValidSequence(
-    toBTree([0, 1, 0, 0, 1, 0, null, null, 1, 0, 0]), [0, 1, 1]
-  )
-)
-console.log(
-  isValidSequence(
-    toBTree([0, 1, 0, 0, 1, 0, null, null, 1, 0, 0]), [0, 1, 0, 1]
-  )
-)
+console.log(isValidSequence(toBTree([0, 1, 0, 0, 1, 0, null, null, 1, 0, 0]), [0, 0, 1]))
+console.log(isValidSequence(toBTree([0, 1, 0, 0, 1, 0, null, null, 1, 0, 0]), [0, 1, 1]))
+console.log(isValidSequence(toBTree([0, 1, 0, 0, 1, 0, null, null, 1, 0, 0]), [0, 1, 0, 1]))

@@ -12,7 +12,7 @@
 var rightSideView = function (root) {
   let map = new Map()
   const iter = (node, l) => {
-    if(!node) return
+    if (!node) return
     if (!map.has(l)) map.set(l, [])
     map.get(l).push(node.val)
     iter(node.right, l + 1)
@@ -20,7 +20,7 @@ var rightSideView = function (root) {
   }
   iter(root, 0)
   return Array.from(map.values()).map(arr => arr[0])
-};
+}
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -31,8 +31,8 @@ function toBTree(array, i = 0) {
 }
 
 function TreeNode(val) {
-  this.val = val;
-  this.left = this.right = null;
+  this.val = val
+  this.left = this.right = null
 }
 
-console.log(rightSideView(toBTree([1, 2, 3, 4])));
+console.log(rightSideView(toBTree([1, 2, 3, 4])))

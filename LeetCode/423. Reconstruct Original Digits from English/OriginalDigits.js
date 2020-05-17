@@ -3,7 +3,18 @@
  * @return {string}
  */
 var originalDigits = function (s) {
-  const words = { z: "zero", x: "six", w: "two", u: "four", g: "eight", s: "seven", v: "five", r: "three", o: "one", n: "nine" }
+  const words = {
+    z: 'zero',
+    x: 'six',
+    w: 'two',
+    u: 'four',
+    g: 'eight',
+    s: 'seven',
+    v: 'five',
+    r: 'three',
+    o: 'one',
+    n: 'nine'
+  }
   const keys = Object.keys(words)
   const nums = { z: 0, x: 6, w: 2, u: 4, g: 8, s: 7, v: 5, r: 3, o: 1, n: 9 }
   const chars = {}
@@ -24,9 +35,9 @@ var originalDigits = function (s) {
       i--
     }
   }
-  return res.sort((a, b) => a - b).join("")
+  return res.sort((a, b) => a - b).join('')
 }
 
-console.log(originalDigits("zerozero"))
-console.log(originalDigits("owoztneoer"))
-console.log(originalDigits("fviefuro"))
+console.log(originalDigits('zerozero'))
+console.log(originalDigits('owoztneoer'))
+console.log(originalDigits('fviefuro'))

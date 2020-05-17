@@ -10,7 +10,7 @@
  * @return {TreeNode}
  */
 var invertTree = function (root) {
-  const invertNode = (node) => {
+  const invertNode = node => {
     if (node) {
       let temp = node.left
       node.left = node.right
@@ -21,7 +21,7 @@ var invertTree = function (root) {
   }
   invertNode(root)
   return root
-};
+}
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -36,4 +36,4 @@ function TreeNode(val) {
   this.left = this.right = null
 }
 
-console.log(invertTree(toBTree([4, 2, 7, 1, 3, 6, 9])));
+console.log(invertTree(toBTree([4, 2, 7, 1, 3, 6, 9])))

@@ -3,8 +3,9 @@
  * @return {number}
  */
 var getMoneyAmount = function (n) {
-
-  const dp = Array(n + 1).fill(null).map(() => Array(n + 1).fill(Infinity))
+  const dp = Array(n + 1)
+    .fill(null)
+    .map(() => Array(n + 1).fill(Infinity))
 
   const minimax = (l, r) => {
     if (l >= r) return 0
@@ -17,7 +18,7 @@ var getMoneyAmount = function (n) {
   }
 
   return minimax(1, n)
-};
+}
 
-console.log(getMoneyAmount(2));
-console.log(getMoneyAmount(10));
+console.log(getMoneyAmount(2))
+console.log(getMoneyAmount(10))

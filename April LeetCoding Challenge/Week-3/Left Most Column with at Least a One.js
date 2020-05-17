@@ -20,14 +20,14 @@
  * @return {number}
  */
 var leftMostColumnWithOne = function (binaryMatrix) {
-  const [m, n] = binaryMatrix.dimensions();
-  
+  const [m, n] = binaryMatrix.dimensions()
+
   let res = n
   for (let i = 0; i < m; i++) {
     for (let j = Math.min(n - 1, res - 1); j >= 0; j--) {
-      if(binaryMatrix.get(i, j) === 0) break
+      if (binaryMatrix.get(i, j) === 0) break
       res = j
     }
   }
   return res === n ? -1 : res
-};
+}

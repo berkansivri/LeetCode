@@ -12,15 +12,16 @@
  * @return {ListNode}
  */
 var getIntersectionNode = function (headA, headB) {
-  let a = headA, b = headB
+  let a = headA,
+    b = headB
   while (a !== b) {
     a = a ? a.next : headB
     b = b ? b.next : headA
   }
   return a
-};
+}
 
-console.log(getIntersectionNode(toBTree([4, 1, 8, 4, 5]), toBTree([5, 0, 1, 8, 4, 5])));
+console.log(getIntersectionNode(toBTree([4, 1, 8, 4, 5]), toBTree([5, 0, 1, 8, 4, 5])))
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -30,6 +31,6 @@ function toBTree(array, i = 0) {
 }
 
 function ListNode(val) {
-  this.val = val;
-  this.next = null;
+  this.val = val
+  this.next = null
 }

@@ -9,7 +9,7 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-var levelOrder = function(root) {
+var levelOrder = function (root) {
   let map = {},
     level = 0
   if (root) map[level] = [root.val]
@@ -42,6 +42,4 @@ function toBTree(array, i = 0) {
 
 console.log(levelOrder(toBTree([3, 9, 20, null, null, 15, 7])))
 console.log(levelOrder(toBTree([1, 2, 3, 4, null, null, 5])))
-console.log(
-  levelOrder(toBTree([0, 2, 4, 1, null, 3, -1, 5, 1, null, 6, null, 8]))
-)
+console.log(levelOrder(toBTree([0, 2, 4, 1, null, 3, -1, 5, 1, null, 6, null, 8])))

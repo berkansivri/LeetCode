@@ -3,7 +3,7 @@
  * @param {number} k
  * @return {number[][]}
  */
-var combine = function(n, k) {
+var combine = function (n, k) {
   var res = []
   const rec = (arr, i) => {
     if (arr.length === k) res.push([...arr])

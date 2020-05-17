@@ -15,7 +15,7 @@ var gameOfLife = function (board) {
     }
   }
   return board
-};
+}
 
 const checkNeighbors = (arr, m, n, i, j) => {
   let c = 0
@@ -28,9 +28,11 @@ const checkNeighbors = (arr, m, n, i, j) => {
   return c
 }
 
-console.log(gameOfLife([
-  [0, 1, 0],
-  [0, 0, 1],
-  [1, 1, 1],
-  [0, 0, 0]
-]));
+console.log(
+  gameOfLife([
+    [0, 1, 0],
+    [0, 0, 1],
+    [1, 1, 1],
+    [0, 0, 0]
+  ])
+)

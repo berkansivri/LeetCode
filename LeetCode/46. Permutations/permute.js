@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-const permute = function(nums) {
+const permute = function (nums) {
   const result = []
   function iter(used) {
     if (used.length === nums.length) result.push([...used])

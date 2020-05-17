@@ -12,7 +12,7 @@
  */
 var Solution = function (head) {
   this.list = head
-};
+}
 
 /**
  * Returns a random node's value.
@@ -23,24 +23,24 @@ Solution.prototype.getRandom = function () {
   let rnd = c.val
   for (let i = 1; c.next != null; i++) {
     c = c.next
-    if (~~(Math.random() * (i+1)) === i) rnd = c.val
+    if (~~(Math.random() * (i + 1)) === i) rnd = c.val
   }
   return rnd
-};
+}
 
-/** 
+/**
  * Your Solution object will be instantiated and called as such:
  * var obj = new Solution(head)
  * var param_1 = obj.getRandom()
  */
 
 function ListNode(val) {
-  this.val = val;
-  this.next = null;  
+  this.val = val
+  this.next = null
 }
 
 // Init a singly linked list [1,2,3].
-let head = new ListNode(1);
-head.next = new ListNode(2);
-head.next.next = new ListNode(3);
-let solution = new Solution(head);
+let head = new ListNode(1)
+head.next = new ListNode(2)
+head.next.next = new ListNode(3)
+let solution = new Solution(head)

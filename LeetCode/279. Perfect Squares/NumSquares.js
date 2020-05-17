@@ -11,7 +11,7 @@ var numSquares = function (n) {
     }
   }
   return dp[n]
-};
+}
 
-console.log(numSquares(12));
-console.log(numSquares(13));
+console.log(numSquares(12))
+console.log(numSquares(13))

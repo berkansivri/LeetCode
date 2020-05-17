@@ -13,7 +13,9 @@ var longestIncreasingPath = function (matrix) {
   if (matrix.length === 0) return 0
   let m = matrix.length,
     n = matrix[0].length
-  let cache = Array(m).fill().map(_ => [])
+  let cache = Array(m)
+    .fill()
+    .map(_ => [])
   let max = 1
   for (let i = 0; i < m; i++) {
     for (let j = 0; j < n; j++) {
@@ -22,7 +24,7 @@ var longestIncreasingPath = function (matrix) {
     }
   }
   return max
-};
+}
 
 const dfs = (matrix, i, j, m, n, cache) => {
   if (cache[i][j]) return cache[i][j]
@@ -38,8 +40,10 @@ const dfs = (matrix, i, j, m, n, cache) => {
   return max
 }
 
-console.log(longestIncreasingPath([
-  [9, 9, 4],
-  [6, 6, 8],
-  [2, 1, 1]
-]));
+console.log(
+  longestIncreasingPath([
+    [9, 9, 4],
+    [6, 6, 8],
+    [2, 1, 1]
+  ])
+)

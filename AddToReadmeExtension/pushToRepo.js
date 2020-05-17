@@ -1,9 +1,7 @@
 const exec = require('child_process').exec
-const {
-  window
-} = require('vscode')
+const { window } = require('vscode')
 
-const pushToRepo = (msg) => {
+const pushToRepo = msg => {
   exec('git add .', (err, stdout, stderr) => {
     if (err || stderr) {
       console.log(err || stderr)

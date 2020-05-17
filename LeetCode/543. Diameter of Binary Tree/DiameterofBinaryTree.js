@@ -12,7 +12,7 @@
 var diameterOfBinaryTree = function (root) {
   let max = 0
 
-  const dfs = (node) => {
+  const dfs = node => {
     if (!node) return 0
 
     const left = dfs(node.left)
@@ -25,7 +25,7 @@ var diameterOfBinaryTree = function (root) {
 
   dfs(root)
   return max
-};
+}
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -40,4 +40,4 @@ function TreeNode(val) {
   this.left = this.right = null
 }
 
-console.log(diameterOfBinaryTree(toBTree([1, 2, 3, 4, 5])));
+console.log(diameterOfBinaryTree(toBTree([1, 2, 3, 4, 5])))

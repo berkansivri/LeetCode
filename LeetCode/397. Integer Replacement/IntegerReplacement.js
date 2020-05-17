@@ -9,7 +9,7 @@ var integerReplacement = function (n, c = 0) {
   } else {
     return Math.min(integerReplacement(n + 1, c + 1), integerReplacement(n - 1, c + 1))
   }
-};
+}
 
 var integerReplacement2 = function (n) {
   const iter = (m, c) => {
@@ -21,10 +21,10 @@ var integerReplacement2 = function (n) {
     }
   }
   return iter(n, 0)
-};
+}
 
-console.log(integerReplacement(7));
-console.log(integerReplacement(8));
-console.log(integerReplacement(15));
-console.log(integerReplacement(26));
-console.log(integerReplacement(29));
+console.log(integerReplacement(7))
+console.log(integerReplacement(8))
+console.log(integerReplacement(15))
+console.log(integerReplacement(26))
+console.log(integerReplacement(29))

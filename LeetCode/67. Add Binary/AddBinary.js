@@ -4,9 +4,9 @@
  * @return {string}
  */
 var addBinary = function (a, b) {
-  var a = a.split("")
-  var b = b.split("")
-  var result = ""
+  var a = a.split('')
+  var b = b.split('')
+  var result = ''
   var ai = a.length - 1
   var bi = b.length - 1
   var c = 0
@@ -17,8 +17,8 @@ var addBinary = function (a, b) {
     ai--
     bi--
   }
-  if (c > 0) result = c + result;
-  return result;
-};
+  if (c > 0) result = c + result
+  return result
+}
 
-console.log(addBinary("1010", "1111"))
+console.log(addBinary('1010', '1111'))

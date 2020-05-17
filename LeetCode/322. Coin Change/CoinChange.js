@@ -20,10 +20,10 @@ var coinChange = function (coins, amount) {
     index++
   }
   return arr[amount] === Infinity ? -1 : arr[amount]
-};
+}
 
-console.log(coinChange([1, 2, 5], 11)); // 5 + 5 + 1
-console.log(coinChange([186, 419, 83, 408], 6249)); // -1
-console.log(coinChange([1, 2147483647], 2)); // -1
-console.log(coinChange([2], 3)); // -1
-console.log(coinChange([1, 2, 5, 7], 21)); // -1
+console.log(coinChange([1, 2, 5], 11)) // 5 + 5 + 1
+console.log(coinChange([186, 419, 83, 408], 6249)) // -1
+console.log(coinChange([1, 2147483647], 2)) // -1
+console.log(coinChange([2], 3)) // -1
+console.log(coinChange([1, 2, 5, 7], 21)) // -1

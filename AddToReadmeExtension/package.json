@@ -1,58 +1,58 @@
 {
-	"name": "addtoreadme",
-	"displayName": "AddToReadme",
-	"description": "LC Solutions to ReadMe Table Content",
-	"version": "0.0.4",
-	"repository": {
-		"url": "https://github.com/berkansivri/leetcode"
-	},
-	"publisher": "berkansivri",
-	"engines": {
-		"vscode": "^1.40.0"
-	},
-	"categories": [
-		"Other"
-	],
-	"activationEvents": [
-		"onCommand:extension.addToReadme",
-		"onCommand:extension.pushToRepo"
-	],
-	"main": "./extension.js",
-	"contributes": {
-		"commands": [
-			{
-				"command": "extension.addToReadme",
-				"title": "Add To ReadMe"
-			},
-			{
-				"command": "extension.pushToRepo",
-				"title": "Push to Repository"
-			}
-		],
-		"menus": {
-			"editor/context": [
-				{
-					"command": "extension.addToReadme",
-					"group": "ReadMe"
+  "name": "addtoreadme",
+  "displayName": "AddToReadme",
+  "description": "LC Solutions to ReadMe Table Content",
+  "version": "0.0.4",
+  "repository": {
+    "url": "https://github.com/berkansivri/leetcode"
+  },
+  "publisher": "berkansivri",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:extension.addToReadme",
+    "onCommand:extension.pushToRepo"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.addToReadme",
+        "title": "Add To ReadMe"
+      },
+      {
+        "command": "extension.pushToRepo",
+        "title": "Push to Repository"
+      }
+    ],
+    "menus": {
+      "editor/context": [
+        {
+          "command": "extension.addToReadme",
+          "group": "ReadMe"
         },
-				{
-					"command": "extension.pushToRepo",
-					"group": "ReadMe"
-        }        
-			]
-		}
-	},
-	"scripts": {
+        {
+          "command": "extension.pushToRepo",
+          "group": "ReadMe"
+        }
+      ]
+    }
+  },
+  "scripts": {
     "test": "node ./test/runTest.js"
-	},
-	"devDependencies": {
-		"@types/glob": "^7.1.1",
-		"@types/mocha": "^5.2.7",
-		"@types/node": "^12.12.7",
-		"@types/vscode": "^1.40.0",
-		"eslint": "^6.6.0",
-		"glob": "^7.1.6",
-		"typescript": "^3.7.2"
-	},
-	"dependencies": {}
+  },
+  "devDependencies": {
+    "@types/glob": "^7.1.1",
+    "@types/mocha": "^5.2.7",
+    "@types/node": "^12.12.7",
+    "@types/vscode": "^1.40.0",
+    "eslint": "^6.6.0",
+    "glob": "^7.1.6",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {}
 }

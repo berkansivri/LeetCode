@@ -6,17 +6,17 @@ var WordDictionary = function () {
 }
 
 /**
- * Adds a word into the data structure. 
+ * Adds a word into the data structure.
  * @param {string} word
  * @return {void}
  */
 WordDictionary.prototype.addWord = function (word) {
   let len = word.length
-  this.map[len] ? this.map[len].add(word) : this.map[len] = new Set([word])
+  this.map[len] ? this.map[len].add(word) : (this.map[len] = new Set([word]))
 }
 
 /**
- * Returns if the word is in the data structure. A word could contain the dot character '.' to represent any one letter. 
+ * Returns if the word is in the data structure. A word could contain the dot character '.' to represent any one letter.
  * @param {string} word
  * @return {boolean}
  */
@@ -38,11 +38,11 @@ WordDictionary.prototype.search = function (word) {
 }
 
 let a = new WordDictionary()
-console.log(a.addWord("bad"))
-console.log(a.addWord("bad"))
-console.log(a.addWord("dad"))
-console.log(a.addWord("mad"))
-console.log(a.search("pad"))
-console.log(a.search("bad"))
-console.log(a.search(".ad"))
-console.log(a.search("b.."))
+console.log(a.addWord('bad'))
+console.log(a.addWord('bad'))
+console.log(a.addWord('dad'))
+console.log(a.addWord('mad'))
+console.log(a.search('pad'))
+console.log(a.search('bad'))
+console.log(a.search('.ad'))
+console.log(a.search('b..'))

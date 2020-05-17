@@ -19,8 +19,8 @@ var binaryTreePaths = function (root) {
     if (!node.right && !node.left) res.push(leafs)
   }
   iter(root, [])
-  return res.map(leaf => leaf.join("->"))
-};
+  return res.map(leaf => leaf.join('->'))
+}
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -35,4 +35,4 @@ function TreeNode(val) {
   this.left = this.right = null
 }
 
-console.log(binaryTreePaths(toBTree([1, 2, 3, null, 5])));
+console.log(binaryTreePaths(toBTree([1, 2, 3, null, 5])))

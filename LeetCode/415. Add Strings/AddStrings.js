@@ -16,7 +16,7 @@ var addStrings = function (num1, num2) {
     carry = ~~(sum / 10)
   }
   return res
-};
+}
 
-console.log(addStrings("9", "99"));
-console.log(addStrings("0", "0"));
+console.log(addStrings('9', '99'))
+console.log(addStrings('0', '0'))

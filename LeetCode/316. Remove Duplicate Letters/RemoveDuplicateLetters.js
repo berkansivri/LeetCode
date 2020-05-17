@@ -15,8 +15,8 @@ var removeDuplicateLetters = function (s) {
 
   for (let l of s) {
     letterCount[l]--
-    if(inStack[l]) continue
-    
+    if (inStack[l]) continue
+
     let len = stack.length
     let stackTop = stack[--len]
     while (l < stackTop && letterCount[stackTop] > 0) {
@@ -27,8 +27,8 @@ var removeDuplicateLetters = function (s) {
     inStack[l] = true
     stack.push(l)
   }
-  return stack.join("")
-};
+  return stack.join('')
+}
 
-console.log(removeDuplicateLetters("bcabc")); //abc
-console.log(removeDuplicateLetters("cbacdcbc")); //acdb
+console.log(removeDuplicateLetters('bcabc')) //abc
+console.log(removeDuplicateLetters('cbacdcbc')) //acdb

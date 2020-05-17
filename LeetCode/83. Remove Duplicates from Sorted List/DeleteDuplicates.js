@@ -12,34 +12,34 @@
 var deleteDuplicates = function (head) {
   let orj = head
   while (head && head.next) {
-    if (head.val === head.next.val) head.next = head.next.next;
+    if (head.val === head.next.val) head.next = head.next.next
     else head = head.next
   }
   return orj
-};
+}
 
 function ListNode(val) {
-  this.val = val;
-  this.next = null;
+  this.val = val
+  this.next = null
 }
 
 function convertToArray(ln) {
-  const arr = [];
+  const arr = []
   while (ln && ln.val != undefined) {
-    arr.push(ln.val);
-    ln = ln.next;
+    arr.push(ln.val)
+    ln = ln.next
   }
-  return arr;
-};
-
-function toList(array) {
-  const head = new ListNode();
-  let node = head;
-  for (let a of array) {
-    node.next = new ListNode(a);
-    node = node.next;
-  }
-  return head.next;
+  return arr
 }
 
-console.log(deleteDuplicates(toList([1, 1, 2, 3, 3])));
+function toList(array) {
+  const head = new ListNode()
+  let node = head
+  for (let a of array) {
+    node.next = new ListNode(a)
+    node = node.next
+  }
+  return head.next
+}
+
+console.log(deleteDuplicates(toList([1, 1, 2, 3, 3])))

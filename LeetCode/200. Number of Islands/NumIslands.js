@@ -13,7 +13,7 @@ var numIslands = function (grid) {
     }
   }
   return count
-};
+}
 
 function isIsland(grid, i, j) {
   if (i < 0 || i == grid.length || j < 0 || j == grid[0].length || grid[i][j] === '0') return
@@ -24,9 +24,11 @@ function isIsland(grid, i, j) {
   isIsland(grid, i, j - 1)
 }
 
-console.log(numIslands([
-  ["1", "1", "1", "1", "0"],
-  ["1", "1", "0", "1", "0"],
-  ["1", "1", "0", "0", "0"],
-  ["0", "0", "0", "0", "0"]
-]));
+console.log(
+  numIslands([
+    ['1', '1', '1', '1', '0'],
+    ['1', '1', '0', '1', '0'],
+    ['1', '1', '0', '0', '0'],
+    ['0', '0', '0', '0', '0']
+  ])
+)

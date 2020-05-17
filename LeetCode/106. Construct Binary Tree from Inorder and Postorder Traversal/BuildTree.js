@@ -10,7 +10,7 @@
  * @param {number[]} inorder
  * @return {TreeNode}
  */
-var buildTree = function(inorder, postorder) {
+var buildTree = function (inorder, postorder) {
   const len = postorder.length
   while (postorder.length) {
     let root = new TreeNode(postorder[len - 1])
@@ -27,7 +27,7 @@ function TreeNode(val) {
   this.left = this.right = null
 }
 
-var inorderTraversal = function(root) {
+var inorderTraversal = function (root) {
   if (root == null) return []
   let result = []
   let stack = []
@@ -45,7 +45,7 @@ var inorderTraversal = function(root) {
   return result
 }
 
-var postorderTraversal = function(root) {
+var postorderTraversal = function (root) {
   if (root == null) return []
   let stack = []
   let result = []
@@ -64,5 +64,5 @@ var postorderTraversal = function(root) {
 }
 
 let tree = buildTree([9, 3, 15, 20, 7], [9, 15, 7, 20, 3])
-console.log(inorderTraversal(tree).join(","))
-console.log(postorderTraversal(tree).join(","))
+console.log(inorderTraversal(tree).join(','))
+console.log(postorderTraversal(tree).join(','))

@@ -3,21 +3,22 @@
  */
 var SummaryRanges = function () {
   this.stream = []
-};
+}
 
-/** 
+/**
  * @param {number} val
  * @return {void}
  */
 SummaryRanges.prototype.addNum = function (val) {
   this.stream[val] = true
-};
+}
 
 /**
  * @return {number[][]}
  */
 SummaryRanges.prototype.getIntervals = function () {
-  let res = [], start = -1
+  let res = [],
+    start = -1
   for (let i = 0; i <= this.stream.length; i++) {
     if (start == -1) {
       if (this.stream[i]) {
@@ -33,9 +34,9 @@ SummaryRanges.prototype.getIntervals = function () {
     }
   }
   return res
-};
+}
 
-/** 
+/**
  * Your SummaryRanges object will be instantiated and called as such:
  * var obj = new SummaryRanges()
  * obj.addNum(val)

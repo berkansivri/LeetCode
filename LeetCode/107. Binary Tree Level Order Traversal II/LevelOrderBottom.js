@@ -9,7 +9,7 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
-var levelOrderBottom = function(root) {
+var levelOrderBottom = function (root) {
   let map = {},
     level = 0
   if (root) map[level] = [root.val]
@@ -22,10 +22,11 @@ var levelOrderBottom = function(root) {
     level--
   }
   iter(root.left, root.right)
-  return Object.values(map).reverse()
+  return Object.values(map)
+    .reverse()
     .map(x => x.filter(y => y !== null))
     .filter(z => z.length)
-}; 
+}
 
 function TreeNode(val) {
   this.val = val
@@ -42,6 +43,4 @@ function toBTree(array, i = 0) {
 
 console.log(levelOrderBottom(toBTree([3, 9, 20, null, null, 15, 7])))
 console.log(levelOrderBottom(toBTree([1, 2, 3, 4, null, null, 5])))
-console.log(
-  levelOrderBottom(toBTree([0, 2, 4, 1, null, 3, -1, 5, 1, null, 6, null, 8]))
-)
+console.log(levelOrderBottom(toBTree([0, 2, 4, 1, null, 3, -1, 5, 1, null, 6, null, 8])))

@@ -1,9 +1,10 @@
-  /**
+/**
  * @param {number[]} prices
  * @return {number}
  */
-var maxProfit = function(prices) {
-  let min = prices[0], max = 0
+var maxProfit = function (prices) {
+  let min = prices[0],
+    max = 0
   for (let p of prices) {
     if (p < min) min = p
     else if (p - min > max) max = p - min

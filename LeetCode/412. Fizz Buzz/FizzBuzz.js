@@ -11,6 +11,6 @@ var fizzBuzz = function (n) {
     res.push(str || i.toString())
   }
   return res
-};
+}
 
-console.log(fizzBuzz(15));
+console.log(fizzBuzz(15))

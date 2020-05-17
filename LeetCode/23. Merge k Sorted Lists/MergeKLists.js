@@ -10,27 +10,27 @@
  * @return {ListNode}
  */
 
-var mergeKLists = function(lists) {
-  var arr = [];
+var mergeKLists = function (lists) {
+  var arr = []
   for (let i = 0; i < lists.length; i++) {
-    arr.push(...convertToArray(lists[i]));
+    arr.push(...convertToArray(lists[i]))
   }
-  arr.sort((a, b) => a - b);
+  arr.sort((a, b) => a - b)
 
-  var temp = new ListNode();
-  var result = temp;
+  var temp = new ListNode()
+  var result = temp
   for (let i = 0; i < arr.length; i++) {
-    temp.next = new ListNode(arr[i]);
-    temp = temp.next;
+    temp.next = new ListNode(arr[i])
+    temp = temp.next
   }
-  return result.next;
-};
+  return result.next
+}
 
-var convertToArray = function(ln) {
-  var arr = [];
+var convertToArray = function (ln) {
+  var arr = []
   while (ln && ln.val != undefined) {
-    arr.push(ln.val);
-    ln = ln.next;
+    arr.push(ln.val)
+    ln = ln.next
   }
-  return arr;
-};
+  return arr
+}

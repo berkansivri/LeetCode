@@ -10,27 +10,25 @@
  * @return {number}
  */
 
-var sumOfLeftLeaves = function(root, isLeft) {
-  if(!root) return 0
-  if(!root.left && !root.right && isLeft)
-    return root.val
-  
+var sumOfLeftLeaves = function (root, isLeft) {
+  if (!root) return 0
+  if (!root.left && !root.right && isLeft) return root.val
+
   return sumOfLeftLeaves(root.left, true) + sumOfLeftLeaves(root.right, false)
 }
 
-var sumOfLeftLeaves2 = function(root) {
-  if(!root) return 0
+var sumOfLeftLeaves2 = function (root) {
+  if (!root) return 0
   let sum = 0
   const iter = (node, isLeft) => {
-    if(!node) return
-    if(isLeft && !node.left && !node.right) 
-      sum += node.val
+    if (!node) return
+    if (isLeft && !node.left && !node.right) sum += node.val
     iter(node.left, true)
     iter(node.right, false)
   }
   iter(root)
   return sum
-};
+}
 
 function toBTree(array, i = 0) {
   if (array[i] == null) return null
@@ -45,15 +43,5 @@ function TreeNode(val) {
   this.left = this.right = null
 }
 
-console.log(sumOfLeftLeaves(
-  toBTree(
-    [0,2,4,1,null,3,-1,5,1,null,6,null,8]
-    )
-  )
-);
-console.log(sumOfLeftLeaves(
-  toBTree(
-      [3,9,20,null,null,15,7]
-    )
-  )
-);
+console.log(sumOfLeftLeaves(toBTree([0, 2, 4, 1, null, 3, -1, 5, 1, null, 6, null, 8])))
+console.log(sumOfLeftLeaves(toBTree([3, 9, 20, null, null, 15, 7])))

@@ -14,28 +14,27 @@ var largestRectangleArea = function (heights) {
 
   let lines = [heights[i]]
   while (i < len) {
-    min = Math.min(...lines);
+    min = Math.min(...lines)
     area = min * lines.length
     if (area > max) max = area
     if (lines.length > 1) {
       let temp = [...lines]
       while (temp.length > 1) {
         exMin = Math.min(...temp)
-        temp.shift();
+        temp.shift()
         min = Math.min(...temp)
-        area = min * temp.length;
+        area = min * temp.length
         if (area > max) {
-          if (area > max + exMin)
-            lines = [...temp];
-          max = area;
+          if (area > max + exMin) lines = [...temp]
+          max = area
         }
       }
     }
-    i++;
+    i++
     lines.push(heights[i])
   }
   return max
-};
+}
 
 console.log(largestRectangleArea([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]))
 console.log(largestRectangleArea([0, 9]))

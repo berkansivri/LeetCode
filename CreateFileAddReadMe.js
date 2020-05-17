@@ -2,13 +2,13 @@ const fs = require('fs')
 const path = require('path')
 const exec = require('child_process').exec
 
-capitalizeFirstLetter = (string) => {
-  return string.charAt(0).toUpperCase() + string.slice(1);
+capitalizeFirstLetter = string => {
+  return string.charAt(0).toUpperCase() + string.slice(1)
 }
 
 const createFile = (questionFolder, func) => {
   const folderPath = path.join(__dirname, 'LeetCode')
-  fs.mkdir(path.join(folderPath, questionFolder), (err) => {
+  fs.mkdir(path.join(folderPath, questionFolder), err => {
     if (err) {
       console.log(err)
     }
@@ -19,12 +19,12 @@ const createFile = (questionFolder, func) => {
         return
       }
 
-      fs.writeFile(path.join(folderPath, questionFolder, capitalizeFirstLetter(func.name) + '.js'), data, (err) => {
+      fs.writeFile(path.join(folderPath, questionFolder, capitalizeFirstLetter(func.name) + '.js'), data, err => {
         if (err) {
           console.log(err)
         }
 
-        console.log("File created");
+        console.log('File created')
         addToReadMe()
       })
     })
@@ -32,7 +32,7 @@ const createFile = (questionFolder, func) => {
 }
 
 const addToReadMe = () => {
-  const command = "git ls-files --others --exclude-standard"
+  const command = 'git ls-files --others --exclude-standard'
   exec(command, (err, stdout, stderr) => {
     if (err || stderr) {
       console.log(err || stderr)
@@ -40,36 +40,42 @@ const addToReadMe = () => {
     }
     const pathDesc = path.parse(stdout)
     const lang = path.extname(stdout).trim()
-    const folderName = pathDesc.dir.split("LeetCode/")[1]
+    const folderName = pathDesc.dir.split('LeetCode/')[1]
     const fileName = pathDesc.name
     if (folderName && fileName) {
       addLine(folderName, fileName, lang)
     } else {
-      console.log("No solution added");
+      console.log('No solution added')
     }
   })
 }
 
-
 const addLine = (problem, file, lang) => {
-  let number = problem.split(". ")[0]
-  let title = problem.split(". ")[1]
-  let language = ""
+  let number = problem.split('. ')[0]
+  let title = problem.split('. ')[1]
+  let language = ''
 
   switch (lang) {
-    case ".js":
-      language = "JavaScript"
+    case '.js':
+      language = 'JavaScript'
       break
     case '.cs':
-      language = "C#"
+      language = 'C#'
     default:
       break
   }
 
-  let content = `|${number}|[${title}](https://leetcode.com/problems/${title.split(" ").join("-").toString().toLowerCase()}/)|[${language}](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/${number}.%20${title.split(" ").join("%20").toString()}/${file}.js)|`
+  let content = `|${number}|[${title}](https://leetcode.com/problems/${title
+    .split(' ')
+    .join('-')
+    .toString()
+    .toLowerCase()}/)|[${language}](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/${number}.%20${title
+    .split(' ')
+    .join('%20')
+    .toString()}/${file}.js)|`
 
   fs.open('README.md', 'a', 666, function (e, id) {
-    fs.write(id, content + "\r\n", null, 'utf8', function () {
+    fs.write(id, content + '\r\n', null, 'utf8', function () {
       fs.close(id, function () {
         console.log('readme updated')
       })

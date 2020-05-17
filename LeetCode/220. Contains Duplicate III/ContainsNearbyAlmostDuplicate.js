@@ -6,7 +6,8 @@
  */
 var containsNearbyAlmostDuplicate = function (nums, k, t) {
   let map = nums.map((val, index) => ({ index, val })).sort((a, b) => a.val - b.val)
-  let l = 0, r = 1
+  let l = 0,
+    r = 1
   while (r < map.length) {
     if (l === r) r++
     else {
@@ -19,13 +20,13 @@ var containsNearbyAlmostDuplicate = function (nums, k, t) {
     }
   }
   return false
-};
+}
 
-console.log(containsNearbyAlmostDuplicate([1, 2, 3, 1], 3, 0));
-console.log(containsNearbyAlmostDuplicate([3, 6, 0, 4], 2, 2));
-console.log(containsNearbyAlmostDuplicate([4, 2], 2, 1));
-console.log(containsNearbyAlmostDuplicate([1, 0, 1, 1], 1, 2));
-console.log(containsNearbyAlmostDuplicate([1, 5, 9, 1, 5, 9], 2, 3));
+console.log(containsNearbyAlmostDuplicate([1, 2, 3, 1], 3, 0))
+console.log(containsNearbyAlmostDuplicate([3, 6, 0, 4], 2, 2))
+console.log(containsNearbyAlmostDuplicate([4, 2], 2, 1))
+console.log(containsNearbyAlmostDuplicate([1, 0, 1, 1], 1, 2))
+console.log(containsNearbyAlmostDuplicate([1, 5, 9, 1, 5, 9], 2, 3))
 
 var containsNearbyAlmostDuplicate2 = function (nums, k, t) {
   for (let i = 0; i < nums.length; i++) {
@@ -34,10 +35,10 @@ var containsNearbyAlmostDuplicate2 = function (nums, k, t) {
     }
   }
   return false
-};
+}
 
-console.log(containsNearbyAlmostDuplicate2([3, 6, 0, 4], 2, 2));
-console.log(containsNearbyAlmostDuplicate2([4, 2], 2, 1));
-console.log(containsNearbyAlmostDuplicate2([1, 2, 3, 1], 3, 0));
-console.log(containsNearbyAlmostDuplicate2([1, 0, 1, 1], 1, 2));
-console.log(containsNearbyAlmostDuplicate2([1, 5, 9, 1, 5, 9], 2, 3));
+console.log(containsNearbyAlmostDuplicate2([3, 6, 0, 4], 2, 2))
+console.log(containsNearbyAlmostDuplicate2([4, 2], 2, 1))
+console.log(containsNearbyAlmostDuplicate2([1, 2, 3, 1], 3, 0))
+console.log(containsNearbyAlmostDuplicate2([1, 0, 1, 1], 1, 2))
+console.log(containsNearbyAlmostDuplicate2([1, 5, 9, 1, 5, 9], 2, 3))

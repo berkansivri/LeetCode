@@ -4,7 +4,7 @@
  */
 var bulbSwitch = function (n) {
   return Number.parseInt(Math.sqrt(n))
-};
+}
 
 var bulbSwitch2 = function (n) {
   let arr = new Array(n).fill(false)
@@ -14,8 +14,8 @@ var bulbSwitch2 = function (n) {
     }
   }
   return arr.filter(x => x).length
-};
+}
 
-console.log(bulbSwitch(3));
-console.log(bulbSwitch(4));
-console.log(bulbSwitch(9));
+console.log(bulbSwitch(3))
+console.log(bulbSwitch(4))
+console.log(bulbSwitch(9))
