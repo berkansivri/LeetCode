@@ -286,3 +286,4 @@
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/567.%20Permutation%20in%20String/CheckInclusion.js)|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/901.%20Online%20Stock%20Span/StockSpanner.js)|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/CountSquares.js)|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/451.%20Sort%20Characters%20By%20Frequency/FrequencySort.js)|
