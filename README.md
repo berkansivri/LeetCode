@@ -288,3 +288,4 @@
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones/CountSquares.js)|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/451.%20Sort%20Characters%20By%20Frequency/FrequencySort.js)|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/986.%20Interval%20List%20Intersections/IntervalIntersection.js)|
+|1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1035.%20Uncrossed%20Lines/MaxUncrossedLines.js)|
