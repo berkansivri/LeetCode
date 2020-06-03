@@ -289,3 +289,4 @@
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/451.%20Sort%20Characters%20By%20Frequency/FrequencySort.js)|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/986.%20Interval%20List%20Intersections/IntervalIntersection.js)|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1035.%20Uncrossed%20Lines/MaxUncrossedLines.js)|
+|1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1029.%20Two%20City%20Scheduling/TwoCitySchedCost.js)|
