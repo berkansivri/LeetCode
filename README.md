@@ -293,3 +293,4 @@
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/528.%20Random%20Pick%20with%20Weight/RandomPickwithWeight.js)|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/518.%20Coin%20Change%202/Change.js)|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/434.%20Number%20of%20Segments%20in%20a%20String/CountSegments.js)|
+|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/435.%20Non-overlapping%20Intervals/EaseOverlapIntervals.js)|
