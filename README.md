@@ -302,3 +302,4 @@
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/912.%20Sort%20an%20Array/SortArray.js)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/FindDisappearedNumbers.js)|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/442.%20Find%20All%20Duplicates%20in%20an%20Array/FindDuplicates.js)|
+|445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/445.%20Add%20Two%20Numbers%20II/AddTwoNumbers.js)|
