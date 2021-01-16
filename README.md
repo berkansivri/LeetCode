@@ -309,3 +309,4 @@
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/455.%20Assign%20Cookies/FindContentChildren.js)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/437.%20Path%20Sum%20III/PathSum.js)|
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/447.%20Number%20of%20Boomerangs/NumberofBoomerangs.js)|
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/459.%20Repeated%20Substring%20Pattern/RepeatedSubstringPattern.js)|
