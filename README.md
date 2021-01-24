@@ -311,3 +311,4 @@
 |447|[Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/447.%20Number%20of%20Boomerangs/NumberofBoomerangs.js)|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/459.%20Repeated%20Substring%20Pattern/RepeatedSubstringPattern.js)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/461.%20Hamming%20Distance/HammingDistance.js)|
+|462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/MinMoves2.js)|
