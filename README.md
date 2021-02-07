@@ -314,3 +314,4 @@
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/MinMoves2.js)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/463.%20Island%20Perimeter/IslandPerimeter.js)|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/467.%20Unique%20Substrings%20in%20Wraparound%20String/FindSubstringInWraproundString.js)|
+|472|[Concatenated Words](https://leetcode.com/problems/concatenated-words/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/472.%20Concatenated%20Words/FindAllConcatenatedWordsInADict.js)|
