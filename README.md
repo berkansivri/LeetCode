@@ -318,3 +318,4 @@
 |473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/473.%20Matchsticks%20to%20Square/Makesquare.js)|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/474.%20Ones%20and%20Zeroes/FindMaxForm.js)|
 |475|[Heaters](https://leetcode.com/problems/heaters/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/475.%20Heaters/FindRadius.js)|
+|477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/477.%20Total%20Hamming%20Distance/TotalHammingDistance.js)|
