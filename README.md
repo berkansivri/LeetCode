@@ -320,3 +320,4 @@
 |475|[Heaters](https://leetcode.com/problems/heaters/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/475.%20Heaters/FindRadius.js)|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/477.%20Total%20Hamming%20Distance/TotalHammingDistance.js)|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/482.%20License%20Key%20Formatting/LicenseKeyFormatting.js)|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/485.%20Max%20Consecutive%20Ones/FindMaxConsecutiveOnes.js)|
