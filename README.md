@@ -322,3 +322,4 @@
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/482.%20License%20Key%20Formatting/LicenseKeyFormatting.js)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/485.%20Max%20Consecutive%20Ones/FindMaxConsecutiveOnes.js)|
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/486.%20Predict%20the%20Winner/PredictTheWinner.js)|
+|491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/491.%20Increasing%20Subsequences/FindSubsequences.js)|
