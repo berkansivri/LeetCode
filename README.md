@@ -324,3 +324,4 @@
 |486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/486.%20Predict%20the%20Winner/PredictTheWinner.js)|
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/491.%20Increasing%20Subsequences/FindSubsequences.js)|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/492.%20Construct%20the%20Rectangle/ConstructRectangle.js)|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/494.%20Target%20Sum/FindTargetSumWays.js)|
