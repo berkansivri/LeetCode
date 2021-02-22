@@ -325,3 +325,4 @@
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/491.%20Increasing%20Subsequences/FindSubsequences.js)|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/492.%20Construct%20the%20Rectangle/ConstructRectangle.js)|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/494.%20Target%20Sum/FindTargetSumWays.js)|
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/495.%20Teemo%20Attacking/FindPoisonedDuration.js)|
