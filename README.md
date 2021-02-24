@@ -329,3 +329,4 @@
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/496.%20Next%20Greater%20Element%20I/NextGreaterElement.js)|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/498.%20Diagonal%20Traverse/FindDiagonalOrder.js)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/500.%20Keyboard%20Row/FindWords.js)|
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree/FindMode.js)|
