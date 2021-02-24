@@ -331,3 +331,5 @@
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/500.%20Keyboard%20Row/FindWords.js)|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/501.%20Find%20Mode%20in%20Binary%20Search%20Tree/FindMode.js)|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/503.%20Next%20Greater%20Element%20II/NextGreaterElement.js)|
+|504|[Base 7](https://leetcode.com/problems/base-7/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/504.%20Base%207/convertToBase7.js)|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/506.%20Relative%20Ranks/FindRelativeRanks.js)|
