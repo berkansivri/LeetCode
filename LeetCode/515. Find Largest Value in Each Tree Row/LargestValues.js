@@ -10,20 +10,20 @@
  * @param {TreeNode} root
  * @return {number}
  */
-var findBottomLeftValue = function (root) {
-  let leftMost = { val: root.val, level: 0 }
+var largestValues = function (root) {
+  if (!root) return []
+  let result = []
 
   const iter = (node, level) => {
     if (!node) return
-    if (level > leftMost.level) {
-      leftMost = { val: node.val, level }
-    }
+    result[level] = Math.max(result[level] ?? -Infinity, node.val)
+
     iter(node.left, level + 1)
     iter(node.right, level + 1)
   }
 
   iter(root, 0)
-  return leftMost.val
+  return result
 }
 
 function TreeNode(val, left, right) {
@@ -36,4 +36,4 @@ const a = new TreeNode(2)
 a.left = new TreeNode(1)
 a.right = new TreeNode(3)
 
-console.log(findBottomLeftValue(a))
+console.log(largestValues(a))
