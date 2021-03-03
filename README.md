@@ -339,3 +339,4 @@
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/513.%20Find%20Bottom%20Left%20Tree%20Value/FindBottomLeftValue.js)|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row/LargestValues.js)|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/516.%20Longest%20Palindromic%20Subsequence/LongestPalindromicSubseq.js)|
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/520.%20Detect%20Capital/DetectCapitalUse.js)|
