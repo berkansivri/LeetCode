@@ -340,3 +340,4 @@
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row/LargestValues.js)|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/516.%20Longest%20Palindromic%20Subsequence/LongestPalindromicSubseq.js)|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/520.%20Detect%20Capital/DetectCapitalUse.js)|
+|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/526.%20Beautiful%20Arrangement/CountArrangement.js)|
