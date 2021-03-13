@@ -11,7 +11,7 @@ const { toBTree } = require('./utils')
  * @param {TreeNode} root
  * @return {number}
  */
-
+// DFS
 var getMinimumDifference = function (root) {
   let prev = Infinity
   let min = Infinity
@@ -28,7 +28,8 @@ var getMinimumDifference = function (root) {
   return min
 }
 
-var getMinimumDifference = function (root) {
+// recursive
+var getMinimumDifference2 = function (root) {
   let arr = []
 
   const iter = node => {

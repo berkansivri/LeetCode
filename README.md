@@ -342,3 +342,4 @@
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/520.%20Detect%20Capital/DetectCapitalUse.js)|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/526.%20Beautiful%20Arrangement/CountArrangement.js)|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/530.%20Minimum%20Absolute%20Difference%20in%20BST/GetMinimumDifference.js)|
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/535.%20Encode%20and%20Decode%20TinyURL/EncodeandDecodeTinyURL.js)|
