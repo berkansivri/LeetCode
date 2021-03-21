@@ -344,3 +344,4 @@
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/530.%20Minimum%20Absolute%20Difference%20in%20BST/GetMinimumDifference.js)|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/535.%20Encode%20and%20Decode%20TinyURL/EncodeandDecodeTinyURL.js)|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/541.%20Reverse%20String%20II/ReverseStr.js)|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/572.%20Subtree%20of%20Another%20Tree/IsSubtree.js)|
