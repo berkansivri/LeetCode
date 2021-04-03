@@ -349,3 +349,4 @@
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/547.%20Number%20of%20Provinces/FindCircleNum.js)|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/557.%20Reverse%20Words%20in%20a%20String%20III/ReverseWords.js)|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/FindLongestWord.js)|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/561.%20Array%20Partition%20I/ArrayPairSum.js)|
