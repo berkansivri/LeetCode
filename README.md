@@ -351,3 +351,4 @@
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/FindLongestWord.js)|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/561.%20Array%20Partition%20I/ArrayPairSum.js)|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/551.%20Student%20Attendance%20Record%20I/CheckRecord.js)|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/538.%20Convert%20BST%20to%20Greater%20Tree/ConvertBST.js)|
