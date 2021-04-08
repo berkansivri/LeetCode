@@ -352,3 +352,4 @@
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/561.%20Array%20Partition%20I/ArrayPairSum.js)|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/551.%20Student%20Attendance%20Record%20I/CheckRecord.js)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/538.%20Convert%20BST%20to%20Greater%20Tree/ConvertBST.js)|
+|554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/554.%20Brick%20Wall/LeastBricks.js)|
