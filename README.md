@@ -355,3 +355,4 @@
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/554.%20Brick%20Wall/LeastBricks.js)|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/566.%20Reshape%20the%20Matrix/MatrixReshape.js)|
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/565.%20Array%20Nesting/ArrayNesting.js)|
+|576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/576.%20Out%20of%20Boundary%20Paths/FindPaths.js)|
