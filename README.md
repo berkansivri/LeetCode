@@ -357,3 +357,4 @@
 |565|[Array Nesting](https://leetcode.com/problems/array-nesting/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/565.%20Array%20Nesting/ArrayNesting.js)|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/576.%20Out%20of%20Boundary%20Paths/FindPaths.js)|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/581.%20Shortest%20Unsorted%20Continuous%20Subarray/FindUnsortedSubarray.js)|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/589.%20N-ary%20Tree%20Preorder%20Traversal/Preorder.js)|
