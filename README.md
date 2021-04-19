@@ -360,3 +360,4 @@
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/589.%20N-ary%20Tree%20Preorder%20Traversal/Preorder.js)|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/590.%20N-ary%20Tree%20Postorder%20Traversal/Postorder.js)|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/593.%20Valid%20Square/ValidSquare.js)|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1004.%20Max%20Consecutive%20Ones%20III/LongestOnes.js)|
