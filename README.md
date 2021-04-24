@@ -362,3 +362,4 @@
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/593.%20Valid%20Square/ValidSquare.js)|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/1004.%20Max%20Consecutive%20Ones%20III/LongestOnes.js)|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/594.%20Longest%20Harmonious%20Subsequence/FindLHS.js)|
+|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/FindRestaurant.js)|
