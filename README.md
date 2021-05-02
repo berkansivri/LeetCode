@@ -364,3 +364,4 @@
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/594.%20Longest%20Harmonious%20Subsequence/FindLHS.js)|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/FindRestaurant.js)|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/605.%20Can%20Place%20Flowers/CanPlaceFlowers.js)|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/595.%20Big%20Countries/BigCountries.js)|
