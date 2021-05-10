@@ -365,3 +365,4 @@
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists/FindRestaurant.js)|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/605.%20Can%20Place%20Flowers/CanPlaceFlowers.js)|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/595.%20Big%20Countries/BigCountries.js)|
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/606.%20Construct%20String%20from%20Binary%20Tree/Tree2str.js)|
