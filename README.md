@@ -369,3 +369,4 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/617.%20Merge%20Two%20Binary%20Trees/MergeTrees.js)|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/621.%20Task%20Scheduler/LeastInterval.js)|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/609.%20Find%20Duplicate%20File%20in%20System/FindDuplicate.js)|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/637.%20Average%20of%20Levels%20in%20Binary%20Tree/AverageOfLevels.js)|
