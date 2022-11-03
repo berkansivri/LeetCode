@@ -370,3 +370,5 @@
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/621.%20Task%20Scheduler/LeastInterval.js)|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/609.%20Find%20Duplicate%20File%20in%20System/FindDuplicate.js)|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/637.%20Average%20of%20Levels%20in%20Binary%20Tree/AverageOfLevels.js)|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/643.%20Maximum%20Average%20Subarray%20I/FindMaxAverage.js)|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/645.%20Set%20Mismatch/FindErrorNums.js)|
