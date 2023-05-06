@@ -373,3 +373,4 @@
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/643.%20Maximum%20Average%20Subarray%20I/FindMaxAverage.js)|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/645.%20Set%20Mismatch/FindErrorNums.js)|
 |638|[Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/638.%20Shopping%20Offers/ShoppingOffers.js)|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[JavaScript](https://github.com/berkansivri/LeetCode/blob/master/LeetCode/598.%20Range%20Addition%20II/MaxCount.js)|
